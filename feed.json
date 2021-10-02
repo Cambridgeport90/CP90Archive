@@ -7,13 +7,410 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/02/lincoln-st.html",
+				
+				"content_html": "<p>19 Lincoln St.</p>\n",
+				"content_text": "19 Lincoln St. \n",
+				"date_published": "2021-10-02T19:52:50-04:00",
+				"url": "https://cambridgeport90.org/2021/10/02/lincoln-st.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/02/mbta-bus-route.html",
+				
+				"content_html": "<p>MBTA Bus Route 36.</p>\n",
+				"content_text": "MBTA Bus Route 36. \n",
+				"date_published": "2021-10-02T14:25:24-04:00",
+				"url": "https://cambridgeport90.org/2021/10/02/mbta-bus-route.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/02/reid-square-today.html",
+				
+				"content_html": "<p>Today should be another good time.</p>\n",
+				"content_text": "Today should be another good time.\n",
+				"date_published": "2021-10-02T14:05:59-04:00",
+				"url": "https://cambridgeport90.org/2021/10/02/reid-square-today.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/02/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-10-02T13:08:53-04:00",
+				"url": "https://cambridgeport90.org/2021/10/02/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/01/faeborn-networks-thanks.html",
+				
+				"content_html": "<p>Faeborn Networks. Thanks <a href=\"https://foursquare.com/user/89549\">Pj</a>  for the good time.</p>\n",
+				"content_text": "Faeborn Networks. Thanks <a href=\"https://foursquare.com/user/89549\">Pj</a>  for the good time.\n",
+				"date_published": "2021-10-01T21:09:04-04:00",
+				"url": "https://cambridgeport90.org/2021/10/01/faeborn-networks-thanks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/01/201544.html",
+				
+				"content_html": "<p>Sullivan Square.</p>\n",
+				"content_text": "Sullivan Square. \n",
+				"date_published": "2021-10-01T20:15:44-04:00",
+				"url": "https://cambridgeport90.org/2021/10/01/201544.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/01/mgh-fruit-st.html",
+				
+				"content_html": "<p>MGH - Fruit St. Garage.</p>\n",
+				"content_text": "MGH - Fruit St. Garage. \n",
+				"date_published": "2021-10-01T20:11:32-04:00",
+				"url": "https://cambridgeport90.org/2021/10/01/mgh-fruit-st.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/01/sullivan-square.html",
+				
+				"content_html": "<p>Sullivan Square.</p>\n",
+				"content_text": "Sullivan Square. \n",
+				"date_published": "2021-10-01T17:21:30-04:00",
+				"url": "https://cambridgeport90.org/2021/10/01/sullivan-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/01/partners-healthcare-east.html",
+				
+				"content_html": "<p>Partners Healthcare 12 East.</p>\n",
+				"content_text": "Partners Healthcare 12 East. \n",
+				"date_published": "2021-10-01T07:51:36-04:00",
+				"url": "https://cambridgeport90.org/2021/10/01/partners-healthcare-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/01/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2021-10-01T07:50:49-04:00",
+				"url": "https://cambridgeport90.org/2021/10/01/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/01/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2021-10-01T07:35:39-04:00",
+				"url": "https://cambridgeport90.org/2021/10/01/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/01/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2021-10-01T07:33:44-04:00",
+				"url": "https://cambridgeport90.org/2021/10/01/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/10/01/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-10-01T07:02:09-04:00",
+				"url": "https://cambridgeport90.org/2021/10/01/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/30/partners-kitchen-grabbing.html",
+				
+				"content_html": "<p>Partners Kitchen. Grabbing a snack. I’m starving.</p>\n",
+				"content_text": "Partners Kitchen. Grabbing a snack. I’m starving.\n",
+				"date_published": "2021-09-30T11:14:12-04:00",
+				"url": "https://cambridgeport90.org/2021/09/30/partners-kitchen-grabbing.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/30/changed-my-email.html",
+				
+				"content_html": "<p>changed my email for [dev]9<a href=\"https://dev.to\">dev.to</a>) so that it uses the right one&hellip; also information has been updated; same user name there as here&hellip;</p>\n",
+				"content_text": "changed my email for [dev]9[dev.to](https://dev.to)) so that it uses the right one... also information has been updated; same user name there as here...\n",
+				"date_published": "2021-09-30T09:01:56-04:00",
+				"url": "https://cambridgeport90.org/2021/09/30/changed-my-email.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/30/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2021-09-30T07:36:18-04:00",
+				"url": "https://cambridgeport90.org/2021/09/30/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/30/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2021-09-30T07:28:54-04:00",
+				"url": "https://cambridgeport90.org/2021/09/30/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/30/dunkin.html",
+				
+				"content_html": "<p>Dunkin&rsquo;.</p>\n",
+				"content_text": "Dunkin'. \n",
+				"date_published": "2021-09-30T06:49:37-04:00",
+				"url": "https://cambridgeport90.org/2021/09/30/dunkin.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/30/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2021-09-30T06:16:43-04:00",
+				"url": "https://cambridgeport90.org/2021/09/30/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/30/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-09-30T06:15:29-04:00",
+				"url": "https://cambridgeport90.org/2021/09/30/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/29/somerville-ma.html",
+				
+				"content_html": "<p>Somerville, MA.</p>\n",
+				"content_text": "Somerville, MA. \n",
+				"date_published": "2021-09-29T16:55:30-04:00",
+				"url": "https://cambridgeport90.org/2021/09/29/somerville-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/29/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2021-09-29T07:45:55-04:00",
+				"url": "https://cambridgeport90.org/2021/09/29/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/29/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2021-09-29T07:20:24-04:00",
+				"url": "https://cambridgeport90.org/2021/09/29/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/29/dunkin.html",
+				
+				"content_html": "<p>Dunkin&rsquo;.</p>\n",
+				"content_text": "Dunkin'. \n",
+				"date_published": "2021-09-29T06:50:06-04:00",
+				"url": "https://cambridgeport90.org/2021/09/29/dunkin.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/29/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2021-09-29T05:55:03-04:00",
+				"url": "https://cambridgeport90.org/2021/09/29/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/29/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-09-29T05:54:16-04:00",
+				"url": "https://cambridgeport90.org/2021/09/29/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/28/hair-designs-crappies.html",
+				
+				"content_html": "<p>Hair Designs. Crappies day in the universe to do this.</p>\n",
+				"content_text": "Hair Designs. Crappies day in the universe to do this.\n",
+				"date_published": "2021-09-28T17:47:16-04:00",
+				"url": "https://cambridgeport90.org/2021/09/28/hair-designs-crappies.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/28/halloween-falls-on.html",
+				
+				"content_html": "<p>Halloween falls on a Sunday this year&hellip; will have to be careful around the family and not mention Helja&rsquo;s name by accident&hellip; Considering I will see if my white robe still fits. I know my cloak does. No hair dew this time, though</p>\n",
+				"content_text": "Halloween falls on a Sunday this year... will have to be careful around the family and not mention Helja's name by accident... Considering I will see if my white robe still fits. I know my cloak does. No hair dew this time, though\n",
+				"date_published": "2021-09-28T11:58:25-04:00",
+				"url": "https://cambridgeport90.org/2021/09/28/halloween-falls-on.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/28/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2021-09-28T07:28:51-04:00",
+				"url": "https://cambridgeport90.org/2021/09/28/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/28/starbucks-coffee-thank.html",
+				
+				"content_html": "<p>#coffee. Thank Odin.</p>\n",
+				"content_text": "#coffee. Thank Odin.\n",
+				"date_published": "2021-09-28T07:17:39-04:00",
+				"url": "https://cambridgeport90.org/2021/09/28/starbucks-coffee-thank.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/28/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2021-09-28T07:16:45-04:00",
+				"url": "https://cambridgeport90.org/2021/09/28/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/28/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2021-09-28T06:24:09-04:00",
+				"url": "https://cambridgeport90.org/2021/09/28/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/28/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-09-28T06:23:27-04:00",
+				"url": "https://cambridgeport90.org/2021/09/28/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/27/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2021-09-27T17:50:45-04:00",
+				"url": "https://cambridgeport90.org/2021/09/27/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/27/partners-kitchen.html",
+				
+				"content_html": "<p>Partners Kitchen.</p>\n",
+				"content_text": "Partners Kitchen. \n",
+				"date_published": "2021-09-27T13:41:24-04:00",
+				"url": "https://cambridgeport90.org/2021/09/27/partners-kitchen.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/27/i-have-no.html",
+				
+				"content_html": "<p>I have no idea why in the nine worlds this is happening&hellip; but Sunlit is crashing a ton this morning on iOS 14. Never did this until now&hellip; so not entirely sure what the issue is. When I find somethingthat could potentially help out the community at large, I will let you guys know. Anyone else having this issue?</p>\n",
+				"content_text": "I have no idea why in the nine worlds this is happening... but Sunlit is crashing a ton this morning on iOS 14. Never did this until now... so not entirely sure what the issue is. When I find somethingthat could potentially help out the community at large, I will let you guys know. Anyone else having this issue?\n",
+				"date_published": "2021-09-27T09:31:04-04:00",
+				"url": "https://cambridgeport90.org/2021/09/27/i-have-no.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/27/only-monday-and.html",
+				
+				"content_html": "<p>Only Monday&hellip; and it&rsquo;s already been a tumultuous one. Just great.</p>\n",
+				"content_text": "Only Monday... and it's already been a tumultuous one. Just great.\n",
+				"date_published": "2021-09-27T08:53:57-04:00",
+				"url": "https://cambridgeport90.org/2021/09/27/only-monday-and.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/27/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2021-09-27T07:45:20-04:00",
+				"url": "https://cambridgeport90.org/2021/09/27/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/27/partners-healthcare-east.html",
+				
+				"content_html": "<p>Partners Healthcare 12 East.</p>\n",
+				"content_text": "Partners Healthcare 12 East. \n",
+				"date_published": "2021-09-27T07:44:39-04:00",
+				"url": "https://cambridgeport90.org/2021/09/27/partners-healthcare-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/27/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2021-09-27T07:25:44-04:00",
+				"url": "https://cambridgeport90.org/2021/09/27/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/27/dunkin.html",
+				
+				"content_html": "<p>Dunkin&rsquo;.</p>\n",
+				"content_text": "Dunkin'. \n",
+				"date_published": "2021-09-27T06:46:09-04:00",
+				"url": "https://cambridgeport90.org/2021/09/27/dunkin.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/27/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-09-27T06:45:24-04:00",
+				"url": "https://cambridgeport90.org/2021/09/27/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/26/faeborn-networks-another.html",
+				
+				"content_html": "<p>Another relaxing one today. Why the hell not?</p>\n",
+				"content_text": "Another relaxing one today. Why the hell not?\n",
+				"date_published": "2021-09-26T13:28:13-04:00",
+				"url": "https://cambridgeport90.org/2021/09/26/faeborn-networks-another.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/26/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2021-09-26T12:28:31-04:00",
+				"url": "https://cambridgeport90.org/2021/09/26/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/09/26/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-09-26T12:27:40-04:00",
+				"url": "https://cambridgeport90.org/2021/09/26/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2021/09/25/faeborn-networks-having.html",
 				
-				"content_html": "<p>Faeborn Networks. Having a very relaxing day today. Did a whole butt load of nothing.</p>\n",
-				"content_text": "Faeborn Networks. Having a very relaxing day today. Did a whole butt load of nothing.\n",
+				"content_html": "<p>Having a very relaxing day today. Did a whole butt load of nothing.</p>\n",
+				"content_text": "Having a very relaxing day today. Did a whole butt load of nothing.\n",
 				"date_published": "2021-09-25T17:51:15-04:00",
-				"url": "https://cambridgeport90.org/2021/09/25/faeborn-networks-having.html",
-				"tags": ["checkin","swarm"]
+				"url": "https://cambridgeport90.org/2021/09/25/faeborn-networks-having.html"
 			},
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/09/25/kats-place.html",
