@@ -7,6 +7,330 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/04/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2022-01-04T05:55:30-05:00",
+				"url": "https://cambridgeport90.org/2022/01/04/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/03/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2022-01-03T07:33:17-05:00",
+				"url": "https://cambridgeport90.org/2022/01/03/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/03/starbucks-coffee-forgot.html",
+				
+				"content_html": "<p>#coffee. Forgot that Siri can’t post to Twitter anymore. Lol</p>\n",
+				"content_text": "#coffee. Forgot that Siri can’t post to Twitter anymore. Lol\n",
+				"date_published": "2022-01-03T07:32:19-05:00",
+				"url": "https://cambridgeport90.org/2022/01/03/starbucks-coffee-forgot.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/03/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2022-01-03T07:19:49-05:00",
+				"url": "https://cambridgeport90.org/2022/01/03/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/03/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2022-01-03T06:09:50-05:00",
+				"url": "https://cambridgeport90.org/2022/01/03/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/03/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2022-01-03T06:08:50-05:00",
+				"url": "https://cambridgeport90.org/2022/01/03/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/02/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2022-01-02T15:54:30-05:00",
+				"url": "https://cambridgeport90.org/2022/01/02/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/02/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2022-01-02T15:53:48-05:00",
+				"url": "https://cambridgeport90.org/2022/01/02/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/02/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2022-01-02T15:50:22-05:00",
+				"url": "https://cambridgeport90.org/2022/01/02/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/01/faeborn-networks-having.html",
+				
+				"content_html": "<p>Having a late cup of coffee. Then it’s programming and lunch.</p>\n",
+				"content_text": "Having a late cup of coffee. Then it’s programming and lunch.\n",
+				"date_published": "2022-01-01T12:32:45-05:00",
+				"url": "https://cambridgeport90.org/2022/01/01/faeborn-networks-having.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/01/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2022-01-01T12:32:04-05:00",
+				"url": "https://cambridgeport90.org/2022/01/01/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/01/01/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2022-01-01T12:28:15-05:00",
+				"url": "https://cambridgeport90.org/2022/01/01/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/31/book-list-for.html",
+				
+				"content_html": "\n\n<h2 id=\"book-list-for-2022\">Book List For 2022</h2>\n\n<p>Here it goes:</p>\n\n<ul>\n<li>finish up the Furyck Saga by A.E. Rayne</li>\n<li>Read a Little More In the Kurtherian Gambit Universe, focusing first on The Akio Revelations</li>\n<li>Sprinkled through all of that will be my never-ending pile of spiritual books and references, as well.</li>\n</ul>\n\n<p>Authors on my list:</p>\n\n<ul>\n<li>A.E. Rayne</li>\n<li>Michael Anderle</li>\n<li>Ted Dekker</li>\n<li>Michelle Sagara</li>\n<li>Kat Heath</li>\n<li>the list goes on</li>\n</ul>\n\n<p>One of my goals&hellip; to actually properly document everything read&hellip; how I wish a source other than Goodreads is available with as much detail for books (I might consider hosting a Bookworm instance and then copy the RSS feeds from it to Wordpress, seeing my site will be primarily back on WP by year&rsquo;s beginning) so we&rsquo;ll have to see how that works; can&rsquo;t promise anything, for it all depends on how much available infrastructure I have&hellip; for I can only pay for so much, but we&rsquo;ll see.</p>\n\n<p>All for now</p>\n",
+				"content_text": "## Book List For 2022\n\nHere it goes:\n\n- finish up the Furyck Saga by A.E. Rayne\n- Read a Little More In the Kurtherian Gambit Universe, focusing first on The Akio Revelations\n- Sprinkled through all of that will be my never-ending pile of spiritual books and references, as well. \n\nAuthors on my list:\n\n- A.E. Rayne\n- Michael Anderle\n- Ted Dekker\n- Michelle Sagara\n- Kat Heath\n- the list goes on\n\nOne of my goals... to actually properly document everything read... how I wish a source other than Goodreads is available with as much detail for books (I might consider hosting a Bookworm instance and then copy the RSS feeds from it to Wordpress, seeing my site will be primarily back on WP by year's beginning) so we'll have to see how that works; can't promise anything, for it all depends on how much available infrastructure I have... for I can only pay for so much, but we'll see. \n\nAll for now\n",
+				"date_published": "2021-12-31T22:21:25-05:00",
+				"url": "https://cambridgeport90.org/2021/12/31/book-list-for.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/31/last-day-of.html",
+				
+				"content_html": "<p>Last day of 2021&hellip; I can confidently say that this year turned out nowhere near how I wanted it to. It didn&rsquo;t suck, but it didn&rsquo;t rock,either.</p>\n",
+				"content_text": "Last day of 2021... I can confidently say that this year turned out nowhere near how I wanted it to. It didn't suck, but it didn't rock,either. \n",
+				"date_published": "2021-12-31T15:34:51-05:00",
+				"url": "https://cambridgeport90.org/2021/12/31/last-day-of.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/31/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2021-12-31T14:10:34-05:00",
+				"url": "https://cambridgeport90.org/2021/12/31/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/31/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2021-12-31T14:10:00-05:00",
+				"url": "https://cambridgeport90.org/2021/12/31/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/31/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-12-31T14:09:23-05:00",
+				"url": "https://cambridgeport90.org/2021/12/31/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/30/well-i-shouldnt.html",
+				
+				"content_html": "<p>Well&hellip; I shouldn&rsquo;t be surprised&hellip; I suppose. It would only have been a matter of time anyway. This morning I haven&rsquo;t yet been able to get my coffee&hellip; (Looks like I need to find the real Starbucks near Assembly Row and get my route straight, because it appears no more coffee is forthcoming down on the third floor of my building.) I don&rsquo;t have time to do that this morning, though.</p>\n",
+				"content_text": "Well... I shouldn't be surprised... I suppose. It would only have been a matter of time anyway. This morning I haven't yet been able to get my coffee... (Looks like I need to find the real Starbucks near Assembly Row and get my route straight, because it appears no more coffee is forthcoming down on the third floor of my building.) I don't have time to do that this morning, though.\n",
+				"date_published": "2021-12-30T07:49:37-05:00",
+				"url": "https://cambridgeport90.org/2021/12/30/well-i-shouldnt.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/30/partners-healthcare-east.html",
+				
+				"content_html": "<p>Partners Healthcare 12 East.</p>\n",
+				"content_text": "Partners Healthcare 12 East. \n",
+				"date_published": "2021-12-30T07:27:08-05:00",
+				"url": "https://cambridgeport90.org/2021/12/30/partners-healthcare-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/30/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2021-12-30T07:25:11-05:00",
+				"url": "https://cambridgeport90.org/2021/12/30/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/30/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2021-12-30T07:19:46-05:00",
+				"url": "https://cambridgeport90.org/2021/12/30/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/30/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-12-30T06:36:45-05:00",
+				"url": "https://cambridgeport90.org/2021/12/30/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/30/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2021-12-30T06:35:59-05:00",
+				"url": "https://cambridgeport90.org/2021/12/30/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/29/faeborn-networks-thoughts.html",
+				
+				"content_html": "<p>Thoughts, I’m out of here.</p>\n",
+				"content_text": "Thoughts, I’m out of here.\n",
+				"date_published": "2021-12-29T19:44:27-05:00",
+				"url": "https://cambridgeport90.org/2021/12/29/faeborn-networks-thoughts.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/29/this-is-a.html",
+				
+				"content_html": "\n\n<h1 id=\"this-is-a-post-about-living-with-the-way-things-are\">This Is a Post About Living With The Way Things Are</h1>\n\n<p>I have probably said it before, and I will say it again. (though first, forgive me for putting a downer on everyone&rsquo;s day). the way things are&hellip; it might not look like there&rsquo;s too much that can be done at the moment, but believe me when I say&hellip; there is hope. Some things though that you can do in the mean time&hellip;</p>\n\n<ul>\n<li><p>Stop messing with the status quo and let everything fall off</p></li>\n\n<li><p>If you want to protest, do so lightly</p></li>\n\n<li><p>Listen to authorities, but question the most obvious things.</p>\n\n<ul>\n<li>Regardless of how you might feel about it, be public about your feelings.</li>\n</ul></li>\n</ul>\n\n<p>I use these every day of my life; saying what I want, but not saying enough to upset any one person; I find the debates that arise from a given statement to be more educational and interesting, rather than dull and one-sided. Provided the debate is with someone who wants to hear the other view. Always remember that. If someone doesn&rsquo;t listen, it&rsquo;s 99% guaranteed you aren&rsquo;t the issue.</p>\n",
+				"content_text": "# This Is a Post About Living With The Way Things Are\n\nI have probably said it before, and I will say it again. (though first, forgive me for putting a downer on everyone's day). the way things are... it might not look like there's too much that can be done at the moment, but believe me when I say... there is hope. Some things though that you can do in the mean time...\n\n- Stop messing with the status quo and let everything fall off\n\n- If you want to protest, do so lightly\n\n- Listen to authorities, but question the most obvious things.\n\n  - Regardless of how you might feel about it, be public about your feelings. \n\n  I use these every day of my life; saying what I want, but not saying enough to upset any one person; I find the debates that arise from a given statement to be more educational and interesting, rather than dull and one-sided. Provided the debate is with someone who wants to hear the other view. Always remember that. If someone doesn't listen, it's 99% guaranteed you aren't the issue. \n",
+				"date_published": "2021-12-29T13:10:45-05:00",
+				"url": "https://cambridgeport90.org/2021/12/29/this-is-a.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/29/cube-e-happy.html",
+				
+				"content_html": "<p>Happy Wednesday everyone. Tomorrow is technically Friday for me, so I’m happy.</p>\n",
+				"content_text": "Happy Wednesday everyone. Tomorrow is technically Friday for me, so I’m happy.\n",
+				"date_published": "2021-12-29T07:35:22-05:00",
+				"url": "https://cambridgeport90.org/2021/12/29/cube-e-happy.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/29/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2021-12-29T07:25:27-05:00",
+				"url": "https://cambridgeport90.org/2021/12/29/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/29/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2021-12-29T06:38:59-05:00",
+				"url": "https://cambridgeport90.org/2021/12/29/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/29/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-12-29T06:38:24-05:00",
+				"url": "https://cambridgeport90.org/2021/12/29/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/28/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2021-12-28T07:48:40-05:00",
+				"url": "https://cambridgeport90.org/2021/12/28/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/28/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2021-12-28T07:21:44-05:00",
+				"url": "https://cambridgeport90.org/2021/12/28/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/28/070115.html",
+				
+				"content_html": "<p>Dunkin&rsquo;.</p>\n",
+				"content_text": "Dunkin'. \n",
+				"date_published": "2021-12-28T07:01:15-05:00",
+				"url": "https://cambridgeport90.org/2021/12/28/070115.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/28/dunkin.html",
+				
+				"content_html": "<p>Dunkin&rsquo;.</p>\n",
+				"content_text": "Dunkin'. \n",
+				"date_published": "2021-12-28T06:53:42-05:00",
+				"url": "https://cambridgeport90.org/2021/12/28/dunkin.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/28/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2021-12-28T06:26:32-05:00",
+				"url": "https://cambridgeport90.org/2021/12/28/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/28/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2021-12-28T06:25:45-05:00",
+				"url": "https://cambridgeport90.org/2021/12/28/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/27/some-might-say.html",
+				
+				"content_html": "<p>Some might say it&rsquo;s a little late to be thinking about this&hellip; but if the well-known hymn Hark the Herald Angels Sing was written by Felix mendelssohn, a German composer, then why are the only reliable renditions of it sung in English? Wouldn&rsquo;t he have written and sung it in his native German?</p>\n",
+				"content_text": "Some might say it's a little late to be thinking about this... but if the well-known hymn Hark the Herald Angels Sing was written by Felix mendelssohn, a German composer, then why are the only reliable renditions of it sung in English? Wouldn't he have written and sung it in his native German?\n",
+				"date_published": "2021-12-27T21:27:27-05:00",
+				"url": "https://cambridgeport90.org/2021/12/27/some-might-say.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2021/12/27/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2021-12-27T21:06:43-05:00",
+				"url": "https://cambridgeport90.org/2021/12/27/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2021/12/27/wilmington-ma.html",
 				
 				"content_html": "<p>Wilmington, MA.</p>\n",
