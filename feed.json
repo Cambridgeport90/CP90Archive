@@ -7,13 +7,439 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/25/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2022-06-25T05:48:51-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/25/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/24/partners-kitchen-ordering.html",
+				
+				"content_html": "<p>Ordering a sandwich from here today.</p>\n",
+				"content_text": "Ordering a sandwich from here today.\n",
+				"date_published": "2022-06-24T12:18:51-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/24/partners-kitchen-ordering.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/24/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2022-06-24T06:37:15-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/24/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/24/partners-healthcare-east.html",
+				
+				"content_html": "<p>Partners Healthcare 12 East.</p>\n",
+				"content_text": "Partners Healthcare 12 East. \n",
+				"date_published": "2022-06-24T06:36:39-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/24/partners-healthcare-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/24/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2022-06-24T06:28:14-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/24/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/24/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2022-06-24T06:24:37-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/24/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/23/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2022-06-23T17:25:25-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/23/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/23/161139.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2022-06-23T16:11:39-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/23/161139.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/23/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2022-06-23T06:59:46-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/23/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/23/partners-healthcare-east.html",
+				
+				"content_html": "<p>Partners Healthcare 12 East.</p>\n",
+				"content_text": "Partners Healthcare 12 East. \n",
+				"date_published": "2022-06-23T06:59:29-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/23/partners-healthcare-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/23/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2022-06-23T06:48:03-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/23/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/23/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Automation failed this morning.</p>\n",
+				"content_text": "Automation failed this morning.\n",
+				"date_published": "2022-06-23T06:47:34-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/23/partners-healthcare-assembly.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/23/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2022-06-23T05:34:01-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/23/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/23/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2022-06-23T05:33:16-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/23/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/22/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2022-06-22T06:48:42-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/22/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/22/partners-healthcare-east.html",
+				
+				"content_html": "<p>Partners Healthcare 12 East.</p>\n",
+				"content_text": "Partners Healthcare 12 East. \n",
+				"date_published": "2022-06-22T06:48:23-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/22/partners-healthcare-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/22/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2022-06-22T06:47:12-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/22/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/22/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2022-06-22T06:35:15-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/22/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/22/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2022-06-22T05:12:29-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/22/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/22/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2022-06-22T05:11:08-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/22/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/21/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2022-06-21T18:30:30-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/21/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/21/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2022-06-21T06:59:47-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/21/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/21/partners-healthcare-east.html",
+				
+				"content_html": "<p>Partners Healthcare 12 East.</p>\n",
+				"content_text": "Partners Healthcare 12 East. \n",
+				"date_published": "2022-06-21T06:59:24-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/21/partners-healthcare-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/21/starbucks-coffee-and.html",
+				
+				"content_html": "<p>Coffee and a muffin.</p>\n",
+				"content_text": "Coffee and a muffin.\n",
+				"date_published": "2022-06-21T06:42:47-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/21/starbucks-coffee-and.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/21/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2022-06-21T06:42:17-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/21/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/21/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2022-06-21T05:57:29-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/21/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/21/tewksbury-ma.html",
+				
+				"content_html": "<p>Tewksbury, MA.</p>\n",
+				"content_text": "Tewksbury, MA. \n",
+				"date_published": "2022-06-21T05:56:01-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/21/tewksbury-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/20/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2022-06-20T18:54:28-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/20/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/20/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2022-06-20T07:01:08-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/20/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/20/partners-healthcare-east.html",
+				
+				"content_html": "<p>Partners Healthcare 12 East.</p>\n",
+				"content_text": "Partners Healthcare 12 East. \n",
+				"date_published": "2022-06-20T07:00:52-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/20/partners-healthcare-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/20/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2022-06-20T06:22:42-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/20/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/20/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2022-06-20T06:13:31-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/20/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/20/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2022-06-20T05:34:18-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/20/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/20/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2022-06-20T05:33:48-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/20/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/19/faeborn-networks-i.html",
+				
+				"content_html": "<p>I have a very stupid Roomba. I’ve been watching her for the past 15 minutes try to get back to her dock.</p>\n",
+				"content_text": "I have a very stupid Roomba. I’ve been watching her for the past 15 minutes try to get back to her dock.\n",
+				"date_published": "2022-06-19T12:18:44-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/19/faeborn-networks-i.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/19/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2022-06-19T12:17:57-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/19/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/19/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2022-06-19T12:17:11-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/19/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/19/chase-field-plymouth.html",
+				
+				"content_html": "<p>Chase field @ Plymouth State Athletic complex.</p>\n",
+				"content_text": "Chase field @ Plymouth State Athletic complex. \n",
+				"date_published": "2022-06-19T08:39:48-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/19/chase-field-plymouth.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/19/the-paradise-cottage.html",
+				
+				"content_html": "<p>The Paradise Cottage on a Lake.</p>\n",
+				"content_text": "The Paradise Cottage on a Lake. \n",
+				"date_published": "2022-06-19T07:26:45-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/19/the-paradise-cottage.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/19/loon-lake.html",
+				
+				"content_html": "<p>Loon Lake.</p>\n",
+				"content_text": "Loon Lake. \n",
+				"date_published": "2022-06-19T07:26:28-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/19/loon-lake.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/19/plymouth.html",
+				
+				"content_html": "<p>Plymouth.</p>\n",
+				"content_text": "Plymouth. \n",
+				"date_published": "2022-06-19T07:25:30-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/19/plymouth.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/18/the-paradise-cottage.html",
+				
+				"content_html": "<p>The Paradise Cottage on a Lake.</p>\n",
+				"content_text": "The Paradise Cottage on a Lake. \n",
+				"date_published": "2022-06-18T16:29:43-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/18/the-paradise-cottage.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/18/loon-lake.html",
+				
+				"content_html": "<p>Loon Lake.</p>\n",
+				"content_text": "Loon Lake. \n",
+				"date_published": "2022-06-18T16:29:00-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/18/loon-lake.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/18/plymouth.html",
+				
+				"content_html": "<p>Plymouth.</p>\n",
+				"content_text": "Plymouth. \n",
+				"date_published": "2022-06-18T10:04:43-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/18/plymouth.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/18/dunkin-coffee.html",
+				
+				"content_html": "<p>Coffee.</p>\n",
+				"content_text": "Coffee.\n",
+				"date_published": "2022-06-18T08:01:59-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/18/dunkin-coffee.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/18/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2022-06-18T06:42:47-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/18/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/18/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2022-06-18T06:42:16-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/18/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2022/06/18/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2022-06-18T06:41:30-05:00",
+				"url": "https://cambridgeport90.micro.blog/2022/06/18/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2022/06/17/faeborn-networks-that.html",
 				
-				"content_html": "<p>Faeborn Networks. That was a fun night.</p>\n",
-				"content_text": "Faeborn Networks. That was a fun night.\n",
+				"content_html": "<p>That was a fun night.</p>\n",
+				"content_text": "That was a fun night.\n",
 				"date_published": "2022-06-17T20:17:24-05:00",
-				"url": "https://cambridgeport90.micro.blog/2022/06/17/faeborn-networks-that.html",
-				"tags": ["checkin","swarm"]
+				"url": "https://cambridgeport90.micro.blog/2022/06/17/faeborn-networks-that.html"
 			},
 			{
 				"id": "http://cambridgeport90.micro.blog/2022/06/17/brigham-circle.html",
