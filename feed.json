@@ -7,6 +7,210 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/21/starbucks-coffee.html",
+				
+				"content_html": "<p>Starbucks. Coffee</p>\n",
+				"content_text": "Starbucks. Coffee\n",
+				"date_published": "2023-03-21T06:47:53-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/21/starbucks-coffee.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/21/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2023-03-21T06:47:22-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/21/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/21/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2023-03-21T05:59:04-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/21/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/21/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2023-03-21T05:58:18-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/21/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/20/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2023-03-20T16:58:32-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/20/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/20/starbucks-more-coffee.html",
+				
+				"content_html": "<p>More coffee</p>\n",
+				"content_text": "More coffee\n",
+				"date_published": "2023-03-20T06:27:23-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/20/starbucks-more-coffee.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/20/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2023-03-20T06:19:01-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/20/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/20/dunkin.html",
+				
+				"content_html": "<p>Dunkin'.</p>\n",
+				"content_text": "Dunkin'. \n",
+				"date_published": "2023-03-20T05:42:22-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/20/dunkin.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/20/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2023-03-20T04:32:50-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/20/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/20/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2023-03-20T04:32:02-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/20/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/19/dunkin.html",
+				
+				"content_html": "<p>Dunkin'.</p>\n",
+				"content_text": "Dunkin'. \n",
+				"date_published": "2023-03-19T11:54:32-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/19/dunkin.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/19/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2023-03-19T08:48:51-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/19/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/19/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2023-03-19T08:48:29-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/19/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/19/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2023-03-19T08:47:38-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/19/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/19/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2023-03-19T08:44:31-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/19/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/18/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2023-03-18T12:57:25-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/18/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/18/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2023-03-18T12:56:43-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/18/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/18/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2023-03-18T12:54:27-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/18/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/17/starbucks-call-little.html",
+				
+				"content_html": "<p>Call little bit lost this morning. That was fun.</p>\n",
+				"content_text": "Call little bit lost this morning. That was fun.\n",
+				"date_published": "2023-03-17T06:41:36-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/17/starbucks-call-little.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/17/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2023-03-17T06:38:21-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/17/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/17/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2023-03-17T06:02:41-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/17/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/16/kats-place-working.html",
+				
+				"content_html": "<p>Working from home again today. Appears I overslept again.</p>\n",
+				"content_text": "Working from home again today. Appears I overslept again.\n",
+				"date_published": "2023-03-16T06:28:58-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/16/kats-place-working.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/03/16/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2023-03-16T06:27:41-05:00",
+				"url": "https://cambridgeport90.micro.blog/2023/03/16/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/03/16/wilmington-ma.html",
 				
 				"content_html": "<p>Wilmington, MA.</p>\n",
