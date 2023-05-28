@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/05/28/as-i-sit.html",
+				
+				"content_html": "<p>As I sit, up here in  New Hampshire, waiting for the laundry to finish, I&rsquo;ve had plenty of time to think. That&rsquo;s generally how it is on long weekends, normally a very contemplative time. You guys are probably curious about the things that are on my mind right now? ￼</p>\n",
+				"content_text": "As I sit, up here in  New Hampshire, waiting for the laundry to finish, I've had plenty of time to think. That's generally how it is on long weekends, normally a very contemplative time. You guys are probably curious about the things that are on my mind right now? ￼\n",
+				"date_published": "2023-05-28T14:30:53-04:00",
+				"url": "https://cambridgeport90.org/2023/05/28/as-i-sit.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/05/25/currently-reading-house.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781635574081\">House of Sky and Breath</a> by Sarah J. Maas 📚</p>\n",
+				"content_text": "Currently reading: [House of Sky and Breath](https://micro.blog/books/9781635574081) by Sarah J. Maas 📚\n",
+				"date_published": "2023-05-25T16:17:39-04:00",
+				"url": "https://cambridgeport90.org/2023/05/25/currently-reading-house.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/05/22/i-have-no.html",
+				
+				"content_html": "<p>I have no idea why CF thinks they can get away with this stuff. Now, interestingly enough, I&rsquo;m also getting SSL errors, though not sure whether I need a certificate before setting up Office 365; guess I&rsquo;ll have to learn that later on; every other instance of Office 365 and Cloudflare I have had in the past, the SSL side of it was always handled by someone else in my group. Said group kinda doesn&rsquo;t exist anymore, so I&rsquo;m playing catch up, I think. Fun.</p>\n",
+				"content_text": "I have no idea why CF thinks they can get away with this stuff. Now, interestingly enough, I'm also getting SSL errors, though not sure whether I need a certificate before setting up Office 365; guess I'll have to learn that later on; every other instance of Office 365 and Cloudflare I have had in the past, the SSL side of it was always handled by someone else in my group. Said group kinda doesn't exist anymore, so I'm playing catch up, I think. Fun. \n",
+				"date_published": "2023-05-22T10:40:03-04:00",
+				"url": "https://cambridgeport90.org/2023/05/22/i-have-no.html"
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/05/22/moving-office-tenanciesagain.html",
 				
 				"content_html": "<p>Moving Office 365 tenancies&hellip;again. Cloudflare is either on crack, or just slow on the uptake, because it&rsquo;s showing my domain as having not yet updated nameservers. If you look at this domain on WhoIs, though, you get the updated configuration.</p>\n",
