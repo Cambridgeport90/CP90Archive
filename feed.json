@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/11/email-addresses-should.html",
+				"title": "Email Addresses: Should They Match One’s Domain?",
+				"content_html": "<p>You guys in the IndieWeb know what sucks? The automatic assumption that people’s email addresses are going to end with <a href=\"https://outlook.com\">Outlook</a>, <a href=\"https://gmail.com\">GMail</a>, or some other provider’s domain. Why not allow for any address, and only filter on the format, instead of the provider name? Seems kinda stupid to me unless there is some greater factor on the technical side that I’m missing? If there is, please let me know. I will say, TikTok if one of the worst offenders of this; they have all of the providers listed…everything except for a custom domain entry field. Am I complaining over nothing? Yes, I get the whole majority of users thing; we’re not talking about that; the folks with custom domains in their email addresses will know who you are and will be able to complete the field correctly. If I missed something, let me know. In light of most services and what not expecting an existing provider, I’m seriously not bringing my custom domain back for email; matches this site, but still, so many get it wrong. Is it the email address, or is it the domain that’s wrong?</p>\n<p>Maybe it’s time to go into the underlying history of where this domain name came from. First of all, I wanted to be unique among my peers on the internet, and in order to make my site truly personal, I did away with the <!-- raw HTML omitted --> examples of some others, and chose to make my domain ame based on a memory from back in May of 2014. Some friends and I were running around Cambridge, Massachusetts, near the neighborhood of Cambridgeport. Interstate 90, a.k.a. The Mass Pike (at least where I live, though other sections of it are named differently in multiple states), and that domain popped into existence, and has been with me for at least the past nine years. Yet including it in my eemail address seems to confuse both people and systems alike; what does the rest of the Indieweb sector do? Comments please!</p>\n<p>Kat, a.k.a. C.P.90</p>\n",
+				"content_text": "You guys in the IndieWeb know what sucks? The automatic assumption that people’s email addresses are going to end with [Outlook](https://outlook.com), [GMail](https://gmail.com), or some other provider’s domain. Why not allow for any address, and only filter on the format, instead of the provider name? Seems kinda stupid to me unless there is some greater factor on the technical side that I’m missing? If there is, please let me know. I will say, TikTok if one of the worst offenders of this; they have all of the providers listed…everything except for a custom domain entry field. Am I complaining over nothing? Yes, I get the whole majority of users thing; we’re not talking about that; the folks with custom domains in their email addresses will know who you are and will be able to complete the field correctly. If I missed something, let me know. In light of most services and what not expecting an existing provider, I’m seriously not bringing my custom domain back for email; matches this site, but still, so many get it wrong. Is it the email address, or is it the domain that’s wrong? \n\nMaybe it’s time to go into the underlying history of where this domain name came from. First of all, I wanted to be unique among my peers on the internet, and in order to make my site truly personal, I did away with the <YourName> examples of some others, and chose to make my domain ame based on a memory from back in May of 2014. Some friends and I were running around Cambridge, Massachusetts, near the neighborhood of Cambridgeport. Interstate 90, a.k.a. The Mass Pike (at least where I live, though other sections of it are named differently in multiple states), and that domain popped into existence, and has been with me for at least the past nine years. Yet including it in my eemail address seems to confuse both people and systems alike; what does the rest of the Indieweb sector do? Comments please!\n\nKat, a.k.a. C.P.90\n",
+				"date_published": "2023-06-11T19:08:22-04:00",
+				"url": "https://cambridgeport90.org/2023/06/11/email-addresses-should.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/08/currently-reading-shattered.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9798638978440\">Shattered Sword</a> by T. J. Reynolds:\nHaven&rsquo;t read a LitRPG series in a while, so I sort of paused the Bladeborn Saga for a bit.\n`📚</p>\n",
+				"content_text": "Currently reading: [Shattered Sword](https://micro.blog/books/9798638978440) by T. J. Reynolds:\r\nHaven't read a LitRPG series in a while, so I sort of paused the Bladeborn Saga for a bit.\r\n `📚\n",
+				"date_published": "2023-06-08T11:06:22-04:00",
+				"url": "https://cambridgeport90.org/2023/06/08/currently-reading-shattered.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/06/and-wow-that.html",
+				
+				"content_html": "<p>And wow. that last was not intended as a reply. You can disregard the mention.</p>\n",
+				"content_text": "And wow. that last was not intended as a reply. You can disregard the mention. \n",
+				"date_published": "2023-06-06T10:35:18-04:00",
+				"url": "https://cambridgeport90.org/2023/06/06/and-wow-that.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/06/day-one-is.html",
+				
+				"content_html": "<p>Day One is pretty good. I mean, for me, paper is impractical and inconvenient. then again, different strokes for different folks, as they say.</p>\n",
+				"content_text": "Day One is pretty good. I mean, for me, paper is impractical and inconvenient. then again, different strokes for different folks, as they say. \n",
+				"date_published": "2023-06-06T10:29:14-04:00",
+				"url": "https://cambridgeport90.org/2023/06/06/day-one-is.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/04/currently-reading-countdown.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780770436186\">Countdown to Zero Day</a> by Kim Zetter 📚</p>\n",
+				"content_text": "Currently reading: [Countdown to Zero Day](https://micro.blog/books/9780770436186) by Kim Zetter 📚\n",
+				"date_published": "2023-06-04T11:02:35-04:00",
+				"url": "https://cambridgeport90.org/2023/06/04/currently-reading-countdown.html"
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/04/finished-reading-metabolical.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780063027732\">Metabolical</a> by Robert H. Lustig 📚</p>\n",
