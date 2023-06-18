@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/18/looks-like-ill.html",
+				
+				"content_html": "<p>Looks like I&rsquo;ll have to add more books to Open Library; I can&rsquo;t find the third book in the current series I&rsquo;m working on right now; The Fallen God, by T. J. Reynolds; it&rsquo;s the third in the Eternal Online series. The series is a good one if you like Lit RPG.</p>\n",
+				"content_text": "Looks like I'll have to add more books to Open Library; I can't find the third book in the current series I'm working on right now; The Fallen God, by T. J. Reynolds; it's the third in the Eternal Online series. The series is a good one if you like Lit RPG. \n",
+				"date_published": "2023-06-18T14:03:27-04:00",
+				"url": "https://cambridgeport90.org/2023/06/18/looks-like-ill.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/12/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9798666265130\">The Ruined Temple</a> by T. J. Reynolds 📚</p>\n",
+				"content_text": "Currently reading: [The Ruined Temple](https://micro.blog/books/9798666265130) by T. J. Reynolds 📚\n",
+				"date_published": "2023-06-12T11:58:27-04:00",
+				"url": "https://cambridgeport90.org/2023/06/12/currently-reading-the.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/12/fantasy-the-ruined.html",
+				
+				"content_html": "<p>fantasy: <a href=\"https://micro.blog/books/9798666265130\">The Ruined Temple</a> by T. J. Reynolds 📚</p>\n",
+				"content_text": "fantasy: [The Ruined Temple](https://micro.blog/books/9798666265130) by T. J. Reynolds 📚\n",
+				"date_published": "2023-06-12T11:57:21-04:00",
+				"url": "https://cambridgeport90.org/2023/06/12/fantasy-the-ruined.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/12/exploring-new-paths.html",
+				"title": "Exploring New Paths",
+				"content_html": "<h2 id=\"joining-a-new-church\">Joining A New Church</h2>\n<p>Where I live, practically right next to my condominium complex, in fact, is a UU church (for those who do not know what UU stands for, it means Unitarian Universalist). I haven&rsquo;t felt right going to church in any capacity for several years now, reasons ranging from dogma to simple questioning of faith, and not having my questions welcomed by the congregation, or the clergy, for that matter. It varied depending on where I was, and even people close to me oftentimes didn&rsquo;t want me questioning things. As a result, I went Pagan; specifically Norse Pagan, with a few Irish honors thrown in due to my mixed heritage on my Mom&rsquo;s side. Makes for an interesting existence&hellip;that&rsquo;s for sure.</p>\n<h3 id=\"the-first-breakaway-08\">the First Breakaway: &lsquo;08</h3>\n<p>I realized way, way, back in 2008 that I wasn&rsquo;t like anyone else I knew in terms of spirituality; sure, I was only nineteen then, so some might think that&rsquo;s too young to make such a momentous decision, though I had been pretty independent as it was, and had already been reading a lot of things that some would say I was too young for. On the other hand, nineteen is legal adult age in the United States, even if it&rsquo;s not legal drinking/vaping/edible consumption age. Either way, my mind had already been filled with other possibilities which were very different from my extremely Catholic upbringing, so I figured&hellip;why not explore? Why not indeed?\nI knew what I would do&hellip;I would join up with the Universalist congregation of Medford!</p>\n",
+				"content_text": "## Joining A New Church\r\n\r\nWhere I live, practically right next to my condominium complex, in fact, is a UU church (for those who do not know what UU stands for, it means Unitarian Universalist). I haven't felt right going to church in any capacity for several years now, reasons ranging from dogma to simple questioning of faith, and not having my questions welcomed by the congregation, or the clergy, for that matter. It varied depending on where I was, and even people close to me oftentimes didn't want me questioning things. As a result, I went Pagan; specifically Norse Pagan, with a few Irish honors thrown in due to my mixed heritage on my Mom's side. Makes for an interesting existence...that's for sure. \r\n\r\n### the First Breakaway: '08\r\n\r\nI realized way, way, back in 2008 that I wasn't like anyone else I knew in terms of spirituality; sure, I was only nineteen then, so some might think that's too young to make such a momentous decision, though I had been pretty independent as it was, and had already been reading a lot of things that some would say I was too young for. On the other hand, nineteen is legal adult age in the United States, even if it's not legal drinking/vaping/edible consumption age. Either way, my mind had already been filled with other possibilities which were very different from my extremely Catholic upbringing, so I figured...why not explore? Why not indeed?\r\nI knew what I would do...I would join up with the Universalist congregation of Medford!\n",
+				"date_published": "2023-06-12T11:51:15-04:00",
+				"url": "https://cambridgeport90.org/2023/06/12/exploring-new-paths.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/12/finished-reading-shattered.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9798638978440\">Shattered Sword</a> by T. J. Reynolds 📚</p>\n",
+				"content_text": "Finished reading: [Shattered Sword](https://micro.blog/books/9798638978440) by T. J. Reynolds 📚\n",
+				"date_published": "2023-06-12T10:08:22-04:00",
+				"url": "https://cambridgeport90.org/2023/06/12/finished-reading-shattered.html"
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/11/email-addresses-should.html",
 				"title": "Email Addresses: Should They Match One’s Domain?",
 				"content_html": "<p>You guys in the IndieWeb know what sucks? The automatic assumption that people’s email addresses are going to end with <a href=\"https://outlook.com\">Outlook</a>, <a href=\"https://gmail.com\">GMail</a>, or some other provider’s domain. Why not allow for any address, and only filter on the format, instead of the provider name? Seems kinda stupid to me unless there is some greater factor on the technical side that I’m missing? If there is, please let me know. I will say, TikTok if one of the worst offenders of this; they have all of the providers listed…everything except for a custom domain entry field. Am I complaining over nothing? Yes, I get the whole majority of users thing; we’re not talking about that; the folks with custom domains in their email addresses will know who you are and will be able to complete the field correctly. If I missed something, let me know. In light of most services and what not expecting an existing provider, I’m seriously not bringing my custom domain back for email; matches this site, but still, so many get it wrong. Is it the email address, or is it the domain that’s wrong?</p>\n<p>Maybe it’s time to go into the underlying history of where this domain name came from. First of all, I wanted to be unique among my peers on the internet, and in order to make my site truly personal, I did away with the <!-- raw HTML omitted --> examples of some others, and chose to make my domain ame based on a memory from back in May of 2014. Some friends and I were running around Cambridge, Massachusetts, near the neighborhood of Cambridgeport. Interstate 90, a.k.a. The Mass Pike (at least where I live, though other sections of it are named differently in multiple states), and that domain popped into existence, and has been with me for at least the past nine years. Yet including it in my eemail address seems to confuse both people and systems alike; what does the rest of the Indieweb sector do? Comments please!</p>\n<p>Kat, a.k.a. C.P.90</p>\n",
