@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/22/diarial-reflections.html",
+				"title": "Diarial Reflections",
+				"content_html": "<p>It appears that IFTTT has decided to finally validate my RSS feed today; though will be interesting when switching from Micro.blog back to Wordpress, which will occur hopefully soon. I haven&rsquo;t the dangdest what was happening yesterday; I restored that applet, along with my one from toDoist which copies tasks. Have realized; about 90 percent of my applets on IFTTT are all journal-related. I wonder why that is? Am I an obsessed diarist?</p>\n",
+				"content_text": "It appears that IFTTT has decided to finally validate my RSS feed today; though will be interesting when switching from Micro.blog back to Wordpress, which will occur hopefully soon. I haven't the dangdest what was happening yesterday; I restored that applet, along with my one from toDoist which copies tasks. Have realized; about 90 percent of my applets on IFTTT are all journal-related. I wonder why that is? Am I an obsessed diarist?\n",
+				"date_published": "2023-06-22T11:57:41-04:00",
+				"url": "https://cambridgeport90.org/2023/06/22/diarial-reflections.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/22/currently-reading-paternus.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780997173789\">Paternus</a> by Dyrk Ashton 📚\nI think this is going to be one of the best Fantasy genre novels I have read in a while. I started it&hellip;now going back to it.</p>\n",
+				"content_text": "Currently reading: [Paternus](https://micro.blog/books/9780997173789) by Dyrk Ashton 📚\r\nI think this is going to be one of the best Fantasy genre novels I have read in a while. I started it...now going back to it. \n",
+				"date_published": "2023-06-22T08:13:35-04:00",
+				"url": "https://cambridgeport90.org/2023/06/22/currently-reading-paternus.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/20/i-seem-to.html",
+				
+				"content_html": "<p>I seem to be having issues today with IFTTT validating feeds from here. this is a test to see if the feeds are working when there&rsquo;s a new post on it. Maybe it&rsquo;s because I haven&rsquo;t posted anything since yesterday? I guess time will tell.</p>\n",
+				"content_text": "I seem to be having issues today with IFTTT validating feeds from here. this is a test to see if the feeds are working when there's a new post on it. Maybe it's because I haven't posted anything since yesterday? I guess time will tell. \n",
+				"date_published": "2023-06-20T11:40:07-04:00",
+				"url": "https://cambridgeport90.org/2023/06/20/i-seem-to.html"
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/18/looks-like-ill.html",
 				
 				"content_html": "<p>Looks like I&rsquo;ll have to add more books to Open Library; I can&rsquo;t find the third book in the current series I&rsquo;m working on right now; The Fallen God, by T. J. Reynolds; it&rsquo;s the third in the Eternal Online series. The series is a good one if you like Lit RPG.</p>\n",
