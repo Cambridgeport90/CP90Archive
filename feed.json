@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/07/08/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780553805444\">The World of Ice &amp; Fire</a> by George R. R. Martin 📚</p>\n<p>I realized that this book seemingly comes first in series, and is more an ancient text, so to speak, than is fire and Blood. Will read this alongside more of Sarah J. Maas. Will restart A Court of Thorns and Roses, though need to finish up Paternus Trilogy first.</p>\n",
+				"content_text": "Currently reading: [The World of Ice & Fire](https://micro.blog/books/9780553805444) by George R. R. Martin 📚 \r\n\r\nI realized that this book seemingly comes first in series, and is more an ancient text, so to speak, than is fire and Blood. Will read this alongside more of Sarah J. Maas. Will restart A Court of Thorns and Roses, though need to finish up Paternus Trilogy first. \n",
+				"date_published": "2023-07-08T14:17:14-04:00",
+				"url": "https://cambridgeport90.org/2023/07/08/currently-reading-the.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/28/currently-reading-fire.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780008563790\">Fire and Blood</a> by GEORGE R.R. MARTIN 📚\nI just recently found this; my book list has changed once again;</p>\n<ul>\n<li>fire and blood\nworld of Ice and Fire\nA Song Of Ice And Fire\nA Court Of thorns and roses\nFae Of tiria (I need to finish that.)</li>\n</ul>\n",
+				"content_text": "Currently reading: [Fire and Blood](https://micro.blog/books/9780008563790) by GEORGE R.R. MARTIN 📚\r\nI just recently found this; my book list has changed once again; \r\n- fire and blood\r\n  world of Ice and Fire\r\n    A Song Of Ice And Fire\r\n  A Court Of thorns and roses\r\n  Fae Of tiria (I need to finish that.)\n",
+				"date_published": "2023-06-28T09:27:14-04:00",
+				"url": "https://cambridgeport90.org/2023/06/28/currently-reading-fire.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/27/more-books-did.html",
+				
+				"content_html": "<h2 id=\"more-books\">More Books</h2>\n<p>Did I mention how much I love and hate Amazon Kindle at the same time? If not, then here you go&hellip;because I get notifications of books and deals stacked on top of deals each day, and normally I have to get one of those 0.99 cents boxsets, when I&rsquo;m still usually in the middle of a series. Hence, I get buried in the middle of, sometimes, no less than three books! It&rsquo;s already six months into the year, so I guess it&rsquo;s too late to create a goal for not reading as much? Possible. What ae your throughts?</p>\n",
+				"content_text": "## More Books\r\nDid I mention how much I love and hate Amazon Kindle at the same time? If not, then here you go...because I get notifications of books and deals stacked on top of deals each day, and normally I have to get one of those 0.99 cents boxsets, when I'm still usually in the middle of a series. Hence, I get buried in the middle of, sometimes, no less than three books! It's already six months into the year, so I guess it's too late to create a goal for not reading as much? Possible. What ae your throughts?\n",
+				"date_published": "2023-06-27T12:54:46-04:00",
+				"url": "https://cambridgeport90.org/2023/06/27/more-books-did.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/06/26/finished-reading-war.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781510773875\">War on Ivermectin</a> by Pierre Kory 📚</p>\n",
+				"content_text": "Finished reading: [War on Ivermectin](https://micro.blog/books/9781510773875) by Pierre Kory 📚\n",
+				"date_published": "2023-06-26T09:34:02-04:00",
+				"url": "https://cambridgeport90.org/2023/06/26/finished-reading-war.html"
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/22/diarial-reflections.html",
 				"title": "Diarial Reflections",
 				"content_html": "<p>It appears that IFTTT has decided to finally validate my RSS feed today; though will be interesting when switching from Micro.blog back to Wordpress, which will occur hopefully soon. I haven&rsquo;t the dangdest what was happening yesterday; I restored that applet, along with my one from toDoist which copies tasks. Have realized; about 90 percent of my applets on IFTTT are all journal-related. I wonder why that is? Am I an obsessed diarist?</p>\n",
@@ -315,6 +347,15 @@
 				"content_text": "Just drank: Coffee\n",
 				"date_published": "2023-05-03T07:34:57-04:00",
 				"url": "https://cambridgeport90.org/2023/05/03/just-drank-coffee.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/05/01/currently-reading-rise.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780997173703\">Rise Of Gods</a> by Dyrk Ashton 📚</p>\n",
+				"content_text": "Currently reading: [Rise Of Gods](https://micro.blog/books/9780997173703) by Dyrk Ashton 📚\n",
+				"date_published": "2023-05-01T09:48:00-04:00",
+				"url": "https://cambridgeport90.org/2023/05/01/currently-reading-rise.html",
+				"tags": ["Fantasy","gods","young adult"]
 			},
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/04/27/lets-discuss-imagination.html",
