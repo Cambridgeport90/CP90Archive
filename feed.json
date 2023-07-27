@@ -7,6 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/07/27/mass-general-brigham.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2023-07-27T08:06:01-04:00",
+				"url": "https://cambridgeport90.org/2023/07/27/mass-general-brigham.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/07/26/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781101973639\">The Friendly Orange Glow</a> by Brian Dear 📚</p>\n",
+				"content_text": "Currently reading: [The Friendly Orange Glow](https://micro.blog/books/9781101973639) by Brian Dear 📚\n",
+				"date_published": "2023-07-26T09:29:09-04:00",
+				"url": "https://cambridgeport90.org/2023/07/26/currently-reading-the.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/07/26/i-have-way.html",
+				
+				"content_html": "<p>I have way, way, too many Kindle book credits&hellip;</p>\n",
+				"content_text": "I have way, way, too many Kindle book credits...\n",
+				"date_published": "2023-07-26T09:21:02-04:00",
+				"url": "https://cambridgeport90.org/2023/07/26/i-have-way.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/07/25/i-wonder-how.html",
+				
+				"content_html": "<p>I wonder how long it takes for Micro.blog to register that a new entry has been added to OpenLibrary?</p>\n",
+				"content_text": "I wonder how long it takes for Micro.blog to register that a new entry has been added to OpenLibrary?\n",
+				"date_published": "2023-07-25T08:45:40-04:00",
+				"url": "https://cambridgeport90.org/2023/07/25/i-wonder-how.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/07/23/huntington-ave.html",
+				
+				"content_html": "<p>111 Huntington Ave.</p>\n",
+				"content_text": "111 Huntington Ave. \n",
+				"date_published": "2023-07-23T11:16:17-04:00",
+				"url": "https://cambridgeport90.org/2023/07/23/huntington-ave.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/07/23/the-cheesecake-factory.html",
+				
+				"content_html": "<p>The Cheesecake Factory. We haven’t done this since January. Should be a blast. — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
+				"content_text": "The Cheesecake Factory. We haven’t done this since January. Should be a blast. — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
+				"date_published": "2023-07-23T09:56:47-04:00",
+				"url": "https://cambridgeport90.org/2023/07/23/the-cheesecake-factory.html",
+				"tags": ["checkin","swarm",""]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/22/finished-reading-space.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9798987032411\">Space Rogue: How the Hackers Known as L0pht Changed the World</a> by Cris Thomas 📚</p>\n",
@@ -55,6 +106,15 @@
 				"url": "https://cambridgeport90.org/2023/07/17/return-of-the.html"
 			},
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/07/15/salvatores-restaurant.html",
+				
+				"content_html": "<p>Salvatore&rsquo;s Restaurant.</p>\n",
+				"content_text": "Salvatore's Restaurant. \n",
+				"date_published": "2023-07-15T16:18:00-04:00",
+				"url": "https://cambridgeport90.org/2023/07/15/salvatores-restaurant.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/13/tech-in-faith.html",
 				"title": "Tech In Faith Returns",
 				"content_html": "<h2 id=\"discoveries\">Discoveries</h2>\n<p>I&rsquo;m very excited to report that my old Android phone, the one I mentioned earlier this week, still works; she just needed a new charger. After plugging in the device, I was able to pull up all of the applications which I have been currently using in the practice of my Heathen Faith (in a latter post, I will document how I use technology as part of my faith.) \nFor now, just suffice it to say, that I have been able to get my daily rune each day and that I&rsquo;ve got a three day streak on the app.</p>\n",
@@ -78,6 +138,15 @@
 				"content_text": "Finished reading: [A Court of Thorns and Roses](https://micro.blog/books/9781619634459) by Sarah J. Maas 📚\n",
 				"date_published": "2023-07-13T08:46:21-04:00",
 				"url": "https://cambridgeport90.org/2023/07/13/finished-reading-a.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/07/11/aldi-food-market.html",
+				
+				"content_html": "<p>Aldi Food Market.</p>\n",
+				"content_text": "Aldi Food Market. \n",
+				"date_published": "2023-07-11T08:06:46-04:00",
+				"url": "https://cambridgeport90.org/2023/07/11/aldi-food-market.html",
+				"tags": ["checkin","swarm"]
 			},
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/09/i-was-wondering.html",
