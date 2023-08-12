@@ -7,6 +7,181 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/12/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2023-08-12T13:00:28-04:00",
+				"url": "https://cambridgeport90.org/2023/08/12/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/11/171150.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2023-08-11T17:11:50-04:00",
+				"url": "https://cambridgeport90.org/2023/08/11/171150.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/11/mass-general-brigham.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2023-08-11T08:49:56-04:00",
+				"url": "https://cambridgeport90.org/2023/08/11/mass-general-brigham.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/11/starbucks-coffee-yay.html",
+				
+				"content_html": "<p>Coffee. Yay.</p>\n",
+				"content_text": "Coffee. Yay.\n",
+				"date_published": "2023-08-11T07:56:19-04:00",
+				"url": "https://cambridgeport90.org/2023/08/11/starbucks-coffee-yay.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/11/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2023-08-11T07:55:30-04:00",
+				"url": "https://cambridgeport90.org/2023/08/11/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/11/regency-place-in.html",
+				
+				"content_html": "<p>In a bit of a rush, again this morning.</p>\n",
+				"content_text": "In a bit of a rush, again this morning.\n",
+				"date_published": "2023-08-11T07:35:04-04:00",
+				"url": "https://cambridgeport90.org/2023/08/11/regency-place-in.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/11/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2023-08-11T07:34:10-04:00",
+				"url": "https://cambridgeport90.org/2023/08/11/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/10/schemesio-llc-medford.html",
+				
+				"content_html": "<p>101Schemes.io, L.L.C -Medford, Unit 210 B.</p>\n",
+				"content_text": "101Schemes.io, L.L.C -Medford, Unit 210 B. \n",
+				"date_published": "2023-08-10T07:37:54-04:00",
+				"url": "https://cambridgeport90.org/2023/08/10/schemesio-llc-medford.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/10/regency-place-working.html",
+				
+				"content_html": "<p>Working from home again today.</p>\n",
+				"content_text": "Working from home again today.\n",
+				"date_published": "2023-08-10T07:37:16-04:00",
+				"url": "https://cambridgeport90.org/2023/08/10/regency-place-working.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/10/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2023-08-10T07:36:26-04:00",
+				"url": "https://cambridgeport90.org/2023/08/10/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/09/reflecting-on-the.html",
+				
+				"content_html": "<h2 id=\"reflecting-on-the-end-of-today\">Reflecting On The End Of Today</h2>\n<p>It took me this long to write this, yes, I know it&rsquo;s nearly midnight on a Wednesday, a time frame in which I ought clearly to be in bed. However, that&rsquo;s not the case, regardless of how physically tired I actually am. It&rsquo;s been that way all day today, though I have noticed any longer amount of time where I forget to take my rhodiola rosea supplement, my body just says, &ldquo;nope, you&rsquo;re not doing shit today.&rdquo; I&rsquo;ve been off rhodiola for a few weeks, now; that&rsquo;s getting fixed starting tomorrow, so this shouldn&rsquo;t keep happening. Either way&hellip; I managed to actually compile my first serious Visual Studio project, which worked on the first try, but then the second time around, I managed to screw it up by changing the properties of the solution; I haven&rsquo;t learned a lot of those,yet, so pretty much the only one I&rsquo;m aware of what it does is the target; whether release, debug, any CPU, and so on. Either way, I shouldn&rsquo;t have messed with those, because now the project has 714 errors in it at build time. Not a very good look. Thanksfully I was able to get the application somehow still to do what I needed it to do. I suppose that&rsquo;s better pondered during a time in which I&rsquo;m awake.</p>\n",
+				"content_text": "## Reflecting On The End Of Today\r\n\r\nIt took me this long to write this, yes, I know it's nearly midnight on a Wednesday, a time frame in which I ought clearly to be in bed. However, that's not the case, regardless of how physically tired I actually am. It's been that way all day today, though I have noticed any longer amount of time where I forget to take my rhodiola rosea supplement, my body just says, \"nope, you're not doing shit today.\" I've been off rhodiola for a few weeks, now; that's getting fixed starting tomorrow, so this shouldn't keep happening. Either way... I managed to actually compile my first serious Visual Studio project, which worked on the first try, but then the second time around, I managed to screw it up by changing the properties of the solution; I haven't learned a lot of those,yet, so pretty much the only one I'm aware of what it does is the target; whether release, debug, any CPU, and so on. Either way, I shouldn't have messed with those, because now the project has 714 errors in it at build time. Not a very good look. Thanksfully I was able to get the application somehow still to do what I needed it to do. I suppose that's better pondered during a time in which I'm awake.\n",
+				"date_published": "2023-08-09T23:55:49-04:00",
+				"url": "https://cambridgeport90.org/2023/08/09/reflecting-on-the.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/09/mass-general-brigham.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2023-08-09T08:16:16-04:00",
+				"url": "https://cambridgeport90.org/2023/08/09/mass-general-brigham.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/09/starbucks-more-coffee.html",
+				
+				"content_html": "<p>More coffee.</p>\n",
+				"content_text": "More coffee.\n",
+				"date_published": "2023-08-09T07:28:32-04:00",
+				"url": "https://cambridgeport90.org/2023/08/09/starbucks-more-coffee.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/09/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2023-08-09T07:26:00-04:00",
+				"url": "https://cambridgeport90.org/2023/08/09/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/09/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2023-08-09T06:41:05-04:00",
+				"url": "https://cambridgeport90.org/2023/08/09/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/09/wilmington-ma.html",
+				
+				"content_html": "<p>Wilmington, MA.</p>\n",
+				"content_text": "Wilmington, MA. \n",
+				"date_published": "2023-08-09T06:40:44-04:00",
+				"url": "https://cambridgeport90.org/2023/08/09/wilmington-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/08/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2023-08-08T20:51:34-04:00",
+				"url": "https://cambridgeport90.org/2023/08/08/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/08/hair-designs.html",
+				
+				"content_html": "<p>Hair Designs.</p>\n",
+				"content_text": "Hair Designs. \n",
+				"date_published": "2023-08-08T17:14:49-04:00",
+				"url": "https://cambridgeport90.org/2023/08/08/hair-designs.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/07/schemesio-llc-medford.html",
+				
+				"content_html": "<p>101Schemes.io, L.L.C -Medford, Unit 210 B.</p>\n",
+				"content_text": "101Schemes.io, L.L.C -Medford, Unit 210 B. \n",
+				"date_published": "2023-08-07T17:12:47-04:00",
+				"url": "https://cambridgeport90.org/2023/08/07/schemesio-llc-medford.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/08/07/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2023-08-07T07:58:25-04:00",
+				"url": "https://cambridgeport90.org/2023/08/07/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/08/07/partners-healthcare-assembly.html",
 				
 				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
