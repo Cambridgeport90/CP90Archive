@@ -7,6 +7,192 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/21/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2023-11-21T17:26:02-05:00",
+				"url": "https://cambridgeport90.org/2023/11/21/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/21/mass-general-brigham.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2023-11-21T10:34:57-05:00",
+				"url": "https://cambridgeport90.org/2023/11/21/mass-general-brigham.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/21/starbucks-actually-remembered.html",
+				
+				"content_html": "<p>Actually remembered my stuff this morning.</p>\n",
+				"content_text": "Actually remembered my stuff this morning.\n",
+				"date_published": "2023-11-21T07:45:12-05:00",
+				"url": "https://cambridgeport90.org/2023/11/21/starbucks-actually-remembered.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/21/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2023-11-21T07:43:08-05:00",
+				"url": "https://cambridgeport90.org/2023/11/21/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/21/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2023-11-21T07:23:46-05:00",
+				"url": "https://cambridgeport90.org/2023/11/21/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/20/084501.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2023-11-20T08:45:01-05:00",
+				"url": "https://cambridgeport90.org/2023/11/20/084501.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/20/mass-general-brigham.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2023-11-20T08:09:47-05:00",
+				"url": "https://cambridgeport90.org/2023/11/20/mass-general-brigham.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/20/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2023-11-20T07:40:26-05:00",
+				"url": "https://cambridgeport90.org/2023/11/20/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/20/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2023-11-20T06:36:53-05:00",
+				"url": "https://cambridgeport90.org/2023/11/20/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/20/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2023-11-20T06:36:09-05:00",
+				"url": "https://cambridgeport90.org/2023/11/20/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/20/reading-and-tech.html",
+				
+				"content_html": "<h2 id=\"reading-and-tech-in-2024\">Reading and Tech in 2024</h2>\n<h2 id=\"reading-in-2024\">Reading In 2024</h2>\n<p>Hey all,\nI sure do know that it&rsquo;s been a while since I&rsquo;ve posted anything more substantial than a check in from <a href=\"https://swarm.com\">swarm</a>, but here I am; still here, still kicking around. I just wanted to do a quick update regarding the subjects of both technology and reading. So far, those who follow me, are probably aware that I have so far been posting to places like <a href=\"https://thestorygraph.com\">The Story Graph</a>, <a href=\"https://goodreads.com\">goodreads</a>, and any of a few BookWyrm instances. If you didn&rsquo;t already surmise, BookWyrm is a decentralized version of goodreads, sort of goes by the same principles, and my current delemma is to determine whether I want to keep using the existing ones, or whether I want to host one for myself. Time would tell, I guess.</p>\n",
+				"content_text": "## Reading and Tech in 2024\r\n\r\n## Reading In 2024\r\n\r\nHey all,\r\nI sure do know that it's been a while since I've posted anything more substantial than a check in from [swarm](https://swarm.com), but here I am; still here, still kicking around. I just wanted to do a quick update regarding the subjects of both technology and reading. So far, those who follow me, are probably aware that I have so far been posting to places like [The Story Graph](https://thestorygraph.com), [goodreads](https://goodreads.com), and any of a few BookWyrm instances. If you didn't already surmise, BookWyrm is a decentralized version of goodreads, sort of goes by the same principles, and my current delemma is to determine whether I want to keep using the existing ones, or whether I want to host one for myself. Time would tell, I guess. \n",
+				"date_published": "2023-11-20T01:44:32-05:00",
+				"url": "https://cambridgeport90.org/2023/11/20/reading-and-tech.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/19/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2023-11-19T13:48:15-05:00",
+				"url": "https://cambridgeport90.org/2023/11/19/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/18/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2023-11-18T13:27:24-04:00",
+				"url": "https://cambridgeport90.org/2023/11/18/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/18/kats-place.html",
+				
+				"content_html": "<p>Kat&rsquo;s Place..</p>\n",
+				"content_text": "Kat's Place.. \n",
+				"date_published": "2023-11-18T13:26:39-04:00",
+				"url": "https://cambridgeport90.org/2023/11/18/kats-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/18/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2023-11-18T13:26:18-04:00",
+				"url": "https://cambridgeport90.org/2023/11/18/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/17/faeborn-networks.html",
+				
+				"content_html": "<p>Faeborn Networks.</p>\n",
+				"content_text": "Faeborn Networks. \n",
+				"date_published": "2023-11-17T19:54:45-04:00",
+				"url": "https://cambridgeport90.org/2023/11/17/faeborn-networks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/17/kats-place-here.html",
+				
+				"content_html": "<p>Here for the weekend.</p>\n",
+				"content_text": "Here for the weekend.\n",
+				"date_published": "2023-11-17T19:54:13-04:00",
+				"url": "https://cambridgeport90.org/2023/11/17/kats-place-here.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/17/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2023-11-17T19:53:34-04:00",
+				"url": "https://cambridgeport90.org/2023/11/17/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/17/schemesio-llc-medford.html",
+				
+				"content_html": "<p>101Schemes.io, L.L.C -Medford, Unit 210 B.</p>\n",
+				"content_text": "101Schemes.io, L.L.C -Medford, Unit 210 B. \n",
+				"date_published": "2023-11-17T09:11:00-04:00",
+				"url": "https://cambridgeport90.org/2023/11/17/schemesio-llc-medford.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/17/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2023-11-17T09:10:26-04:00",
+				"url": "https://cambridgeport90.org/2023/11/17/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2023/11/17/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2023-11-17T09:09:49-04:00",
+				"url": "https://cambridgeport90.org/2023/11/17/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/11/16/181303.html",
 				
 				"content_html": "<p>Regency Place.</p>\n",
