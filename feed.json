@@ -7,13 +7,134 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/06/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2024-01-06T19:22:04-05:00",
+				"url": "https://cambridgeport90.org/2024/01/06/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/06/mystic-lakes.html",
+				
+				"content_html": "<p>Mystic Lakes.</p>\n",
+				"content_text": "Mystic Lakes. \n",
+				"date_published": "2024-01-06T19:21:38-05:00",
+				"url": "https://cambridgeport90.org/2024/01/06/mystic-lakes.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/05/schemesio-llc-medford.html",
+				
+				"content_html": "<p>101Schemes.io, L.L.C -Medford, Unit 210 B.</p>\n",
+				"content_text": "101Schemes.io, L.L.C -Medford, Unit 210 B. \n",
+				"date_published": "2024-01-05T08:18:33-05:00",
+				"url": "https://cambridgeport90.org/2024/01/05/schemesio-llc-medford.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/05/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-01-05T08:18:15-05:00",
+				"url": "https://cambridgeport90.org/2024/01/05/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/05/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2024-01-05T08:17:50-05:00",
+				"url": "https://cambridgeport90.org/2024/01/05/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/03/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-01-03T17:07:29-05:00",
+				"url": "https://cambridgeport90.org/2024/01/03/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/03/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2024-01-03T07:30:42-05:00",
+				"url": "https://cambridgeport90.org/2024/01/03/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/03/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2024-01-03T07:29:29-05:00",
+				"url": "https://cambridgeport90.org/2024/01/03/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/02/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-01-02T16:54:56-05:00",
+				"url": "https://cambridgeport90.org/2024/01/02/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/02/mass-general-brigham.html",
+				
+				"content_html": "<p>I’m still awake this morning. Let’s see how long this lasts.</p>\n",
+				"content_text": "I’m still awake this morning. Let’s see how long this lasts.\n",
+				"date_published": "2024-01-02T07:40:42-05:00",
+				"url": "https://cambridgeport90.org/2024/01/02/mass-general-brigham.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/02/starbucks-more-coffee.html",
+				
+				"content_html": "<p>More coffee. I never had my 2nd cup this morning like I meant to. Because garbage.</p>\n",
+				"content_text": "More coffee. I never had my 2nd cup this morning like I meant to. Because garbage.\n",
+				"date_published": "2024-01-02T07:29:57-05:00",
+				"url": "https://cambridgeport90.org/2024/01/02/starbucks-more-coffee.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/02/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2024-01-02T07:28:54-05:00",
+				"url": "https://cambridgeport90.org/2024/01/02/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/02/regency-place-maybe.html",
+				
+				"content_html": "<p>Maybe next time it will be the recycling.</p>\n",
+				"content_text": "Maybe next time it will be the recycling.\n",
+				"date_published": "2024-01-02T06:29:53-05:00",
+				"url": "https://cambridgeport90.org/2024/01/02/regency-place-maybe.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/02/medford-ma-leave.html",
+				
+				"content_html": "<p>Leave it to me to take out the garbage at 6:17 in the morning. Lol.</p>\n",
+				"content_text": "Leave it to me to take out the garbage at 6:17 in the morning. Lol.\n",
+				"date_published": "2024-01-02T06:28:50-05:00",
+				"url": "https://cambridgeport90.org/2024/01/02/medford-ma-leave.html"
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2023/12/31/schemesio-llc-medford.html",
 				
-				"content_html": "<p>101Schemes.io, L.L.C -Medford, Unit 210 B. Going to try to do some programming today.</p>\n",
-				"content_text": "101Schemes.io, L.L.C -Medford, Unit 210 B. Going to try to do some programming today.\n",
+				"content_html": "<p>Going to try to do some programming today.</p>\n",
+				"content_text": "Going to try to do some programming today.\n",
 				"date_published": "2023-12-31T13:11:40-05:00",
-				"url": "https://cambridgeport90.org/2023/12/31/schemesio-llc-medford.html",
-				"tags": ["checkin","swarm"]
+				"url": "https://cambridgeport90.org/2023/12/31/schemesio-llc-medford.html"
 			},
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/12/31/regency-place.html",
