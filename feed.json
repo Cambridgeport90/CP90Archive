@@ -7,6 +7,167 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2024/02/02/notes-for-the.html",
+				
+				"content_html": "<h2 id=\"notes-for-the-week-of-febuary-1-2024\">Notes for the week of Febuary 1, 2024</h2>\n<p>This week&rsquo;s been&hellip;interesting, to say the least. Not much going on at work, or nothing really worth mentioning. Not at the office, anyway. Though I will report on something which you folks might actually be interested in.</p>\n<h2 id=\"programming-progress\">Programming Progress</h2>\n<p>So, evidently I do remember how to do string interpolation in C#? Yes, but the question then becomes, why is that not the first string formatting technique taught to beginner programmers? It would make a huge improvement in the time spent formatting strings, as well as guaranteeing correct output each time. There are only so many Console.Write() methods one can handle&hellip;(unless you&rsquo;re insane, that is.) I&rsquo;ll keep you guys updated.</p>\n<h2 id=\"stuff-on-the-horizon\">Stuff on the horizon</h2>\n<ul>\n<li>maybe give the Poweredge one more chance\n<ul>\n<li>\n<p>at least get to learning how to use the file system in C#</p>\n</li>\n<li>\n<ul>\n<li>finish up Under The Dome, so that I can start on House Of Flame and Shadow</li>\n</ul>\n<p>Until next time,\nKat</p>\n</li>\n</ul>\n</li>\n</ul>\n",
+				"content_text": "## Notes for the week of Febuary 1, 2024\r\nThis week's been...interesting, to say the least. Not much going on at work, or nothing really worth mentioning. Not at the office, anyway. Though I will report on something which you folks might actually be interested in. \r\n\r\n## Programming Progress\r\nSo, evidently I do remember how to do string interpolation in C#? Yes, but the question then becomes, why is that not the first string formatting technique taught to beginner programmers? It would make a huge improvement in the time spent formatting strings, as well as guaranteeing correct output each time. There are only so many Console.Write() methods one can handle...(unless you're insane, that is.) I'll keep you guys updated. \r\n\r\n## Stuff on the horizon\r\n- maybe give the Poweredge one more chance\r\n  - at least get to learning how to use the file system in C#\r\n  - - finish up Under The Dome, so that I can start on House Of Flame and Shadow\r\n\r\n    Until next time,\r\nKat\n",
+				"date_published": "2024-02-02T10:50:12-05:00",
+				"url": "https://cambridgeport90.org/2024/02/02/notes-for-the.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/02/01/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-02-01T17:39:21-05:00",
+				"url": "https://cambridgeport90.org/2024/02/01/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/02/01/mass-general-brigham.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2024-02-01T14:28:37-05:00",
+				"url": "https://cambridgeport90.org/2024/02/01/mass-general-brigham.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/02/01/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2024-02-01T07:47:48-05:00",
+				"url": "https://cambridgeport90.org/2024/02/01/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/02/01/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2024-02-01T07:43:50-05:00",
+				"url": "https://cambridgeport90.org/2024/02/01/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/31/schemesio-llc-medford.html",
+				
+				"content_html": "<p>101Schemes.io, L.L.C -Medford, Unit 210 B.</p>\n",
+				"content_text": "101Schemes.io, L.L.C -Medford, Unit 210 B. \n",
+				"date_published": "2024-01-31T17:27:31-05:00",
+				"url": "https://cambridgeport90.org/2024/01/31/schemesio-llc-medford.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/31/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-01-31T17:18:01-05:00",
+				"url": "https://cambridgeport90.org/2024/01/31/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/30/170604.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-01-30T17:06:04-05:00",
+				"url": "https://cambridgeport90.org/2024/01/30/170604.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/30/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-01-30T17:06:04-05:00",
+				"url": "https://cambridgeport90.org/2024/01/30/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/30/164005.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2024-01-30T16:40:05-05:00",
+				"url": "https://cambridgeport90.org/2024/01/30/164005.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/30/mass-general-brigham.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2024-01-30T07:57:24-05:00",
+				"url": "https://cambridgeport90.org/2024/01/30/mass-general-brigham.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/30/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2024-01-30T07:44:45-05:00",
+				"url": "https://cambridgeport90.org/2024/01/30/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/30/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2024-01-30T07:44:18-05:00",
+				"url": "https://cambridgeport90.org/2024/01/30/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/30/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2024-01-30T07:14:48-05:00",
+				"url": "https://cambridgeport90.org/2024/01/30/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/29/schemesio-llc-medford.html",
+				
+				"content_html": "<p>101Schemes.io, L.L.C -Medford, Unit 210 B.</p>\n",
+				"content_text": "101Schemes.io, L.L.C -Medford, Unit 210 B. \n",
+				"date_published": "2024-01-29T13:39:45-05:00",
+				"url": "https://cambridgeport90.org/2024/01/29/schemesio-llc-medford.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/29/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-01-29T13:38:34-05:00",
+				"url": "https://cambridgeport90.org/2024/01/29/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/29/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2024-01-29T13:37:27-05:00",
+				"url": "https://cambridgeport90.org/2024/01/29/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/01/28/adventures-in-programming.html",
+				"title": "Adventures in Programming when I should be sleeping",
+				"content_html": "<p>In light of string interpolation&hellip;why in the world would anybody want to use another method of writing code in the C# language? Placing a dollar sign before your output, and then simply placing the variable names inside of curly braces? Much easier than having to fart with the Console.Write() method. So, if you have the following:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-cs\" data-lang=\"cs\"><span style=\"color:#66d9ef\">decimal</span> temperature = <span style=\"color:#ae81ff\">44F</span>;\nConsole.WriteLine(<span style=\"color:#e6db74\">$&#34;the temperature is {temperature}&#34;</span>);\n\nYour application would deign then to respond with <span style=\"color:#e6db74\">&#34;The Temperature is 44F&#34;</span>. There<span style=\"color:#960050;background-color:#1e0010\">&#39;</span>s another way you could write that code, <span style=\"color:#66d9ef\">using</span> a lot more Console.WriteLine() statements, and then sticking the variable name <span style=\"color:#66d9ef\">in</span> parentheses <span style=\"color:#66d9ef\">on</span> a line between the lines of text...but why <span style=\"color:#66d9ef\">do</span> that? Interpolation <span style=\"color:#66d9ef\">is</span> much easier. People sometimes don<span style=\"color:#960050;background-color:#1e0010\">&#39;</span>t necessarily understand my choice <span style=\"color:#66d9ef\">in</span> programming languages, but I picked C<span style=\"color:#960050;background-color:#1e0010\">#</span> <span style=\"color:#66d9ef\">as</span> a good readable language. What are your thoughts?\n</code></pre></div>",
+				"content_text": "In light of string interpolation...why in the world would anybody want to use another method of writing code in the C# language? Placing a dollar sign before your output, and then simply placing the variable names inside of curly braces? Much easier than having to fart with the Console.Write() method. So, if you have the following:\r\n```cs\r\ndecimal temperature = 44F;\r\nConsole.WriteLine($\"the temperature is {temperature}\");\r\n\r\nYour application would deign then to respond with \"The Temperature is 44F\". There's another way you could write that code, using a lot more Console.WriteLine() statements, and then sticking the variable name in parentheses on a line between the lines of text...but why do that? Interpolation is much easier. People sometimes don't necessarily understand my choice in programming languages, but I picked C# as a good readable language. What are your thoughts?\n",
+				"date_published": "2024-01-28T23:25:05-05:00",
+				"url": "https://cambridgeport90.org/2024/01/28/adventures-in-programming.html",
+				"tags": ["programming","C#","DotNet"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2024/01/28/schemesio-llc-medford.html",
 				
 				"content_html": "<p>101Schemes.io, L.L.C -Medford, Unit 210 B.</p>\n",
@@ -29994,7 +30155,7 @@
 				"id": "http://cambridgeport90.micro.blog/2021/12/24/nice-cookies-and.html",
 				
 				"content_html": "<p>Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.\n\n<img src=\"uploads/2021/15773fcad3.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/f76e5cd62b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/15773fcad3.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cambridgeport90.micro.blog/uploads/2021/f76e5cd62b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-24T08:03:03-05:00",
 				"url": "https://cambridgeport90.org/2021/12/24/nice-cookies-and.html"
 			},
@@ -32410,7 +32571,7 @@
 				"id": "http://cambridgeport90.micro.blog/2021/10/31/decided-to-get.html",
 				
 				"content_html": "<p>Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.\n\n<img src=\"uploads/2021/ff1366ecf9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/ff1366ecf9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-31T16:51:20-05:00",
 				"url": "https://cambridgeport90.org/2021/10/31/decided-to-get.html"
 			},
@@ -35371,7 +35532,7 @@
 				"id": "http://cambridgeport90.micro.blog/2021/05/22/some-pictures-from.html",
 				
 				"content_html": "<p>Some pictures from when I was hanging out with my friends last night.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Some pictures from when I was hanging out with my friends last night.\n\n<img src=\"uploads/2021/d4847aab0a.png\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/73f8738db2.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Some pictures from when I was hanging out with my friends last night.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/d4847aab0a.png\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cambridgeport90.micro.blog/uploads/2021/73f8738db2.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-22T13:44:21-05:00",
 				"url": "https://cambridgeport90.org/2021/05/22/some-pictures-from.html"
 			},
@@ -35412,7 +35573,7 @@
 				"id": "http://cambridgeport90.micro.blog/2021/05/02/there-goes-the.html",
 				"title": "there goes the fence.",
 				"content_html": "<p>This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.\n\n<img src=\"uploads/2021/e820c11bc1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/e820c11bc1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-02T11:36:42-05:00",
 				"url": "https://cambridgeport90.org/2021/05/02/there-goes-the.html"
 			},
@@ -36036,7 +36197,7 @@
 				"id": "http://cambridgeport90.micro.blog/2020/06/24/took-this-one.html",
 				
 				"content_html": "<p>Took this one when I was in New Hampshire last. Sun shining on the pretty lake.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took this one when I was in New Hampshire last. Sun shining on the pretty lake.\n\n<img src=\"uploads/2020/1617ef67ec.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Took this one when I was in New Hampshire last. Sun shining on the pretty lake.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2020/1617ef67ec.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-06-24T19:18:22-05:00",
 				"url": "https://cambridgeport90.org/2020/06/24/took-this-one.html"
 			},
