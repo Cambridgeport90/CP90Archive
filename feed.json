@@ -7,13 +7,155 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/22/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2024-05-22T17:20:05-05:00",
+				"url": "https://cambridgeport90.org/2024/05/22/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/21/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-05-21T16:27:38-05:00",
+				"url": "https://cambridgeport90.org/2024/05/21/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/21/partners-kitchen-grabbing.html",
+				
+				"content_html": "<p>Grabbing a pizza.</p>\n",
+				"content_text": "Grabbing a pizza.\n",
+				"date_published": "2024-05-21T12:08:55-05:00",
+				"url": "https://cambridgeport90.org/2024/05/21/partners-kitchen-grabbing.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/21/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2024-05-21T06:56:11-05:00",
+				"url": "https://cambridgeport90.org/2024/05/21/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/21/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2024-05-21T06:51:02-05:00",
+				"url": "https://cambridgeport90.org/2024/05/21/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/21/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2024-05-21T06:04:41-05:00",
+				"url": "https://cambridgeport90.org/2024/05/21/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/21/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2024-05-21T06:03:42-05:00",
+				"url": "https://cambridgeport90.org/2024/05/21/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/19/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-05-19T13:52:40-05:00",
+				"url": "https://cambridgeport90.org/2024/05/19/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/19/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2024-05-19T13:52:08-05:00",
+				"url": "https://cambridgeport90.org/2024/05/19/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/19/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2024-05-19T13:51:30-05:00",
+				"url": "https://cambridgeport90.org/2024/05/19/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/18/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-05-18T18:28:18-05:00",
+				"url": "https://cambridgeport90.org/2024/05/18/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/18/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2024-05-18T18:27:11-05:00",
+				"url": "https://cambridgeport90.org/2024/05/18/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/18/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2024-05-18T18:26:02-05:00",
+				"url": "https://cambridgeport90.org/2024/05/18/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/17/182346.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-05-17T18:23:46-05:00",
+				"url": "https://cambridgeport90.org/2024/05/17/182346.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/17/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-05-17T18:23:46-05:00",
+				"url": "https://cambridgeport90.org/2024/05/17/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/05/17/mbta-assembly-station.html",
+				
+				"content_html": "<p>MBTA Assembly Station.</p>\n",
+				"content_text": "MBTA Assembly Station. \n",
+				"date_published": "2024-05-17T15:55:22-05:00",
+				"url": "https://cambridgeport90.org/2024/05/17/mbta-assembly-station.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2024/05/17/partners-kitchen-i.html",
 				
-				"content_html": "<p>Partners Kitchen. I think I might have a turkey sandwich today.</p>\n",
-				"content_text": "Partners Kitchen. I think I might have a turkey sandwich today.\n",
+				"content_html": "<p>I think I might have a turkey sandwich today.</p>\n",
+				"content_text": "I think I might have a turkey sandwich today.\n",
 				"date_published": "2024-05-17T12:04:26-05:00",
-				"url": "https://cambridgeport90.org/2024/05/17/partners-kitchen-i.html",
-				"tags": ["checkin","swarm"]
+				"url": "https://cambridgeport90.org/2024/05/17/partners-kitchen-i.html"
 			},
 			{
 				"id": "http://cambridgeport90.micro.blog/2024/05/17/starbucks-happy-friggs.html",
