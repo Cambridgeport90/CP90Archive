@@ -7,6 +7,76 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2024/06/14/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2024-06-14T06:29:12-05:00",
+				"url": "https://cambridgeport90.org/2024/06/14/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/06/14/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2024-06-14T06:28:34-05:00",
+				"url": "https://cambridgeport90.org/2024/06/14/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/06/10/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2024-06-10T16:32:52-05:00",
+				"url": "https://cambridgeport90.org/2024/06/10/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/06/10/mass-general-brigham.html",
+				
+				"content_html": "<p>Two coffee spills later.</p>\n",
+				"content_text": "Two coffee spills later.\n",
+				"date_published": "2024-06-10T07:04:16-05:00",
+				"url": "https://cambridgeport90.org/2024/06/10/mass-general-brigham.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/06/10/starbucks-coffee-and.html",
+				
+				"content_html": "<p>Coffee and a muffin.</p>\n",
+				"content_text": "Coffee and a muffin.\n",
+				"date_published": "2024-06-10T06:45:16-05:00",
+				"url": "https://cambridgeport90.org/2024/06/10/starbucks-coffee-and.html"
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/06/10/partners-healthcare-assembly.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2024-06-10T06:44:04-05:00",
+				"url": "https://cambridgeport90.org/2024/06/10/partners-healthcare-assembly.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/06/10/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2024-06-10T06:08:09-05:00",
+				"url": "https://cambridgeport90.org/2024/06/10/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/06/10/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2024-06-10T06:06:30-05:00",
+				"url": "https://cambridgeport90.org/2024/06/10/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2024/06/08/medford-ma.html",
 				
 				"content_html": "<p>Medford, MA.</p>\n",
