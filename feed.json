@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2024/10/23/partners-kitchen.html",
+				
+				"content_html": "<p>Partners Kitchen.</p>\n",
+				"content_text": "Partners Kitchen. \n",
+				"date_published": "2024-10-23T13:17:21-04:00",
+				"url": "https://cambridgeport90.org/2024/10/23/partners-kitchen.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/10/23/mass-general-brigham.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2024-10-23T13:15:37-04:00",
+				"url": "https://cambridgeport90.org/2024/10/23/mass-general-brigham.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2024/10/23/starbucks.html",
+				
+				"content_html": "<p>Starbucks.</p>\n",
+				"content_text": "Starbucks. \n",
+				"date_published": "2024-10-23T08:10:45-04:00",
+				"url": "https://cambridgeport90.org/2024/10/23/starbucks.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2024/10/23/partners-healthcare-assembly.html",
 				
 				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
