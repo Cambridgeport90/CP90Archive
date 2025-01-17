@@ -7,6 +7,393 @@
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/17/mass-general-brigham-east-workingits.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East. working\nIt’s a lot busier on a Friday nowadays.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. working\nIt’s a lot busier on a Friday nowadays.\n",
+				"date_published": "2025-01-17T14:58:06-04:00",
+				"url": "https://cambridgeport90.org/2025/01/17/mass-general-brigham-east-workingits.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/17/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2025-01-17T09:24:56-04:00",
+				"url": "https://cambridgeport90.org/2025/01/17/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/17/mass-general-brigham-east.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2025-01-17T09:24:13-04:00",
+				"url": "https://cambridgeport90.org/2025/01/17/mass-general-brigham-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/17/partners-healthcare-assembly-row.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2025-01-17T09:13:40-04:00",
+				"url": "https://cambridgeport90.org/2025/01/17/partners-healthcare-assembly-row.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/16/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2025-01-16T20:43:10-04:00",
+				"url": "https://cambridgeport90.org/2025/01/16/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/16/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2025-01-16T08:59:09-04:00",
+				"url": "https://cambridgeport90.org/2025/01/16/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/16/mass-general-brigham-east.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2025-01-16T08:58:16-04:00",
+				"url": "https://cambridgeport90.org/2025/01/16/mass-general-brigham-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/16/084944.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2025-01-16T08:49:44-04:00",
+				"url": "https://cambridgeport90.org/2025/01/16/084944.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/16/starbucks-coffee.html",
+				
+				"content_html": "<p>Starbucks. #coffee.</p>\n",
+				"content_text": "Starbucks. #coffee.\n",
+				"date_published": "2025-01-16T08:49:04-04:00",
+				"url": "https://cambridgeport90.org/2025/01/16/starbucks-coffee.html",
+				"tags": ["checkin","swarm","coffee"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/16/partners-healthcare-assembly-row.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2025-01-16T08:48:33-04:00",
+				"url": "https://cambridgeport90.org/2025/01/16/partners-healthcare-assembly-row.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/16/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2025-01-16T08:36:50-04:00",
+				"url": "https://cambridgeport90.org/2025/01/16/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/16/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2025-01-16T08:33:02-04:00",
+				"url": "https://cambridgeport90.org/2025/01/16/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/16/mystic-lakes.html",
+				
+				"content_html": "<p>Mystic Lakes.</p>\n",
+				"content_text": "Mystic Lakes. \n",
+				"date_published": "2025-01-16T08:29:26-04:00",
+				"url": "https://cambridgeport90.org/2025/01/16/mystic-lakes.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/15/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2025-01-15T18:45:18-04:00",
+				"url": "https://cambridgeport90.org/2025/01/15/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/15/partners-kitchen.html",
+				
+				"content_html": "<p>Partners Kitchen.</p>\n",
+				"content_text": "Partners Kitchen. \n",
+				"date_published": "2025-01-15T14:18:23-04:00",
+				"url": "https://cambridgeport90.org/2025/01/15/partners-kitchen.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/15/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2025-01-15T08:58:57-04:00",
+				"url": "https://cambridgeport90.org/2025/01/15/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/15/mass-general-brigham-east.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2025-01-15T08:58:09-04:00",
+				"url": "https://cambridgeport90.org/2025/01/15/mass-general-brigham-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/15/starbucks-coffee-is-of-the.html",
+				
+				"content_html": "<p>Starbucks. #coffee. Is of the gods.</p>\n",
+				"content_text": "Starbucks. #coffee. Is of the gods.\n",
+				"date_published": "2025-01-15T08:44:55-04:00",
+				"url": "https://cambridgeport90.org/2025/01/15/starbucks-coffee-is-of-the.html",
+				"tags": ["checkin","swarm","coffee"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/15/partners-healthcare-assembly-row.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2025-01-15T08:43:13-04:00",
+				"url": "https://cambridgeport90.org/2025/01/15/partners-healthcare-assembly-row.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/15/shipyard-way.html",
+				
+				"content_html": "<p>Shipyard Way.</p>\n",
+				"content_text": "Shipyard Way. \n",
+				"date_published": "2025-01-15T08:33:55-04:00",
+				"url": "https://cambridgeport90.org/2025/01/15/shipyard-way.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/15/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2025-01-15T08:30:35-04:00",
+				"url": "https://cambridgeport90.org/2025/01/15/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/15/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2025-01-15T08:30:01-04:00",
+				"url": "https://cambridgeport90.org/2025/01/15/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/14/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2025-01-14T18:09:22-04:00",
+				"url": "https://cambridgeport90.org/2025/01/14/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/14/mass-general-brigham-east.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. \n",
+				"date_published": "2025-01-14T12:17:57-04:00",
+				"url": "https://cambridgeport90.org/2025/01/14/mass-general-brigham-east.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/14/starbucks-cranberry-muffin-and-a.html",
+				
+				"content_html": "<p>Starbucks. Cranberry muffin and a coffee.</p>\n",
+				"content_text": "Starbucks. Cranberry muffin and a coffee.\n",
+				"date_published": "2025-01-14T08:32:31-04:00",
+				"url": "https://cambridgeport90.org/2025/01/14/starbucks-cranberry-muffin-and-a.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/14/partners-healthcare-assembly-row.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2025-01-14T08:28:34-04:00",
+				"url": "https://cambridgeport90.org/2025/01/14/partners-healthcare-assembly-row.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/14/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2025-01-14T08:08:28-04:00",
+				"url": "https://cambridgeport90.org/2025/01/14/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/14/mystic-lakes.html",
+				
+				"content_html": "<p>Mystic Lakes.</p>\n",
+				"content_text": "Mystic Lakes. \n",
+				"date_published": "2025-01-14T08:07:49-04:00",
+				"url": "https://cambridgeport90.org/2025/01/14/mystic-lakes.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/14/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2025-01-14T08:07:13-04:00",
+				"url": "https://cambridgeport90.org/2025/01/14/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/13/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2025-01-13T18:14:45-04:00",
+				"url": "https://cambridgeport90.org/2025/01/13/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/13/cube-e.html",
+				
+				"content_html": "<p>Cube 12E30.24.</p>\n",
+				"content_text": "Cube 12E30.24. \n",
+				"date_published": "2025-01-13T08:47:07-04:00",
+				"url": "https://cambridgeport90.org/2025/01/13/cube-e.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/13/mass-general-brigham-east-havent.html",
+				
+				"content_html": "<p>Mass General Brigham, 12 East. Haven’t felt this awake and ready for the week in a long time.</p>\n",
+				"content_text": "Mass General Brigham, 12 East. Haven’t felt this awake and ready for the week in a long time.\n",
+				"date_published": "2025-01-13T08:46:24-04:00",
+				"url": "https://cambridgeport90.org/2025/01/13/mass-general-brigham-east-havent.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/13/starbucks-coffee-yea.html",
+				
+				"content_html": "<p>Starbucks. #coffee. Yea.</p>\n",
+				"content_text": "Starbucks. #coffee. Yea.\n",
+				"date_published": "2025-01-13T08:23:52-04:00",
+				"url": "https://cambridgeport90.org/2025/01/13/starbucks-coffee-yea.html",
+				"tags": ["checkin","swarm","coffee"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/13/partners-healthcare-assembly-row.html",
+				
+				"content_html": "<p>Partners Healthcare - Assembly Row.</p>\n",
+				"content_text": "Partners Healthcare - Assembly Row. \n",
+				"date_published": "2025-01-13T08:22:15-04:00",
+				"url": "https://cambridgeport90.org/2025/01/13/partners-healthcare-assembly-row.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/13/medford-ma.html",
+				
+				"content_html": "<p>Medford, MA.</p>\n",
+				"content_text": "Medford, MA. \n",
+				"date_published": "2025-01-13T07:58:48-04:00",
+				"url": "https://cambridgeport90.org/2025/01/13/medford-ma.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/13/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2025-01-13T07:58:00-04:00",
+				"url": "https://cambridgeport90.org/2025/01/13/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/13/mystic-lakes.html",
+				
+				"content_html": "<p>Mystic Lakes.</p>\n",
+				"content_text": "Mystic Lakes. \n",
+				"date_published": "2025-01-13T07:57:24-04:00",
+				"url": "https://cambridgeport90.org/2025/01/13/mystic-lakes.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/12/schemesio-llc-medford-unit-b.html",
+				
+				"content_html": "<p>101Schemes.io, L.L.C -Medford, Unit 210 B.</p>\n",
+				"content_text": "101Schemes.io, L.L.C -Medford, Unit 210 B. \n",
+				"date_published": "2025-01-12T18:53:13-04:00",
+				"url": "https://cambridgeport90.org/2025/01/12/schemesio-llc-medford-unit-b.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/12/medford-square.html",
+				
+				"content_html": "<p>Medford Square.</p>\n",
+				"content_text": "Medford Square. \n",
+				"date_published": "2025-01-12T18:52:34-04:00",
+				"url": "https://cambridgeport90.org/2025/01/12/medford-square.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/12/regency-place.html",
+				
+				"content_html": "<p>Regency Place.</p>\n",
+				"content_text": "Regency Place. \n",
+				"date_published": "2025-01-12T15:00:59-04:00",
+				"url": "https://cambridgeport90.org/2025/01/12/regency-place.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/12/lululemon-athletica.html",
+				
+				"content_html": "<p>Lululemon Athletica.</p>\n",
+				"content_text": "Lululemon Athletica. \n",
+				"date_published": "2025-01-12T14:21:53-04:00",
+				"url": "https://cambridgeport90.org/2025/01/12/lululemon-athletica.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/12/laz-copley-place-mall.html",
+				
+				"content_html": "<p>LAZ Copley Place Mall.</p>\n",
+				"content_text": "LAZ Copley Place Mall. \n",
+				"date_published": "2025-01-12T14:04:01-04:00",
+				"url": "https://cambridgeport90.org/2025/01/12/laz-copley-place-mall.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
+				"id": "http://cambridgeport90.micro.blog/2025/01/12/prudential-center-south-garden.html",
+				
+				"content_html": "<p>Prudential Center South Garden.</p>\n",
+				"content_text": "Prudential Center South Garden. \n",
+				"date_published": "2025-01-12T11:31:16-04:00",
+				"url": "https://cambridgeport90.org/2025/01/12/prudential-center-south-garden.html",
+				"tags": ["checkin","swarm"]
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2025/01/12/medford-ma.html",
 				
 				"content_html": "<p>Medford, MA.</p>\n",
@@ -41927,7 +42314,7 @@
 				"id": "http://cambridgeport90.micro.blog/2021/12/24/nice-cookies-and.html",
 				
 				"content_html": "<p>Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/15773fcad3.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cambridgeport90.micro.blog/uploads/2021/f76e5cd62b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.\n\n<img src=\"uploads/2021/15773fcad3.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/f76e5cd62b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-24T09:03:03-04:00",
 				"url": "https://cambridgeport90.org/2021/12/24/nice-cookies-and.html"
 			},
@@ -44343,7 +44730,7 @@
 				"id": "http://cambridgeport90.micro.blog/2021/10/31/decided-to-get.html",
 				
 				"content_html": "<p>Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/ff1366ecf9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.\n\n<img src=\"uploads/2021/ff1366ecf9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-31T17:51:20-04:00",
 				"url": "https://cambridgeport90.org/2021/10/31/decided-to-get.html"
 			},
@@ -47304,7 +47691,7 @@
 				"id": "http://cambridgeport90.micro.blog/2021/05/22/some-pictures-from.html",
 				
 				"content_html": "<p>Some pictures from when I was hanging out with my friends last night.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Some pictures from when I was hanging out with my friends last night.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/d4847aab0a.png\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cambridgeport90.micro.blog/uploads/2021/73f8738db2.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Some pictures from when I was hanging out with my friends last night.\n\n<img src=\"uploads/2021/d4847aab0a.png\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/73f8738db2.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-22T14:44:21-04:00",
 				"url": "https://cambridgeport90.org/2021/05/22/some-pictures-from.html"
 			},
@@ -47345,7 +47732,7 @@
 				"id": "http://cambridgeport90.micro.blog/2021/05/02/there-goes-the.html",
 				"title": "there goes the fence.",
 				"content_html": "<p>This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/e820c11bc1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.\n\n<img src=\"uploads/2021/e820c11bc1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-02T12:36:42-04:00",
 				"url": "https://cambridgeport90.org/2021/05/02/there-goes-the.html"
 			},
@@ -47969,7 +48356,7 @@
 				"id": "http://cambridgeport90.micro.blog/2020/06/24/took-this-one.html",
 				
 				"content_html": "<p>Took this one when I was in New Hampshire last. Sun shining on the pretty lake.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took this one when I was in New Hampshire last. Sun shining on the pretty lake.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2020/1617ef67ec.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Took this one when I was in New Hampshire last. Sun shining on the pretty lake.\n\n<img src=\"uploads/2020/1617ef67ec.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-06-24T20:18:22-04:00",
 				"url": "https://cambridgeport90.org/2020/06/24/took-this-one.html"
 			},
