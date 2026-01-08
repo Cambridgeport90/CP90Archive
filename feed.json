@@ -1,15 +1,23 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Randomness from an IT eclectic in Boston Mass: Kat's Microblog",
-	"icon": "https://cdn.micro.blog/cambridgeport90/avatar.jpg",
+	"icon": "https://micro.blog/cambridgeport90/avatar.jpg",
 	"home_page_url": "https://cambridgeport90.org/",
 	"feed_url": "https://cambridgeport90.org/feed.json",
 	"items": [
 		
 			{
+				"id": "http://cambridgeport90.micro.blog/2026/01/08/just-drank-large-coffee-with.html",
+				
+				"content_html": "<p>Just drank: Large coffee with peppermint-flavored syrup.</p>\n",
+				"content_text": "Just drank: Large coffee with peppermint-flavored syrup.\n",
+				"date_published": "2026-01-08T10:07:45-05:00",
+				"url": "https://cambridgeport90.org/2026/01/08/just-drank-large-coffee-with.html"
+			},
+			{
 				"id": "http://cambridgeport90.micro.blog/2025/02/04/i-finished-this-one-a.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250198754/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>I finished this one a couple of years ago, but dang, was it a good book. Very unique in its plot and character development, that&rsquo;s for sure. Finished reading: <a href=\"https://micro.blog/books/9781250198754\">Beyond the Black Door</a> by A.M. Strickland 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>I finished this one a couple of years ago, but dang, was it a good book. Very unique in its plot and character development, that&rsquo;s for sure. Finished reading: <a href=\"https://micro.blog/books/9781250198754\">Beyond the Black Door</a> by A.M. Strickland 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250198754/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nI finished this one a couple of years ago, but dang, was it a good book. Very unique in its plot and character development, that's for sure. Finished reading: [Beyond the Black Door](https://micro.blog/books/9781250198754) by A.M. Strickland 📚\n",
 				"date_published": "2025-02-04T14:43:19-05:00",
 				"url": "https://cambridgeport90.org/2025/02/04/i-finished-this-one-a.html"
@@ -12602,7 +12610,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2024/02/11/in-reply-to.html",
 				
-				"content_html": "<p>In reply to <a href=\"https://snarfed.org/2024-02-05_52066\" class=\"u-in-reply-to\">snarfed.org/2024-02-0&hellip;</a></p>\n<p>Also, I read something a while ago, will have to find it, where evidently earlier humans actually learned to hibernate, like bears do, for example, and one scientist even said that we should re-learn it, if we want to survive in the future.</p>\n",
+				"content_html": "<p>In reply to <!-- raw HTML omitted -->snarfed.org/2024-02-0&hellip;<!-- raw HTML omitted --></p>\n<p>Also, I read something a while ago, will have to find it, where evidently earlier humans actually learned to hibernate, like bears do, for example, and one scientist even said that we should re-learn it, if we want to survive in the future.</p>\n",
 				"content_text": "In reply to <a href=\"https://snarfed.org/2024-02-05_52066\" class=\"u-in-reply-to\">snarfed.org/2024-02-0...</a>\n\nAlso, I read something a while ago, will have to find it, where evidently earlier humans actually learned to hibernate, like bears do, for example, and one scientist even said that we should re-learn it, if we want to survive in the future. \n",
 				"date_published": "2024-02-11T19:14:02-05:00",
 				"url": "https://cambridgeport90.org/2024/02/11/in-reply-to.html"
@@ -14994,7 +15002,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/11/23/kats-place-thanksgovimg.html",
 				
-				"content_html": "<p>Kat&rsquo;s Place.. Thanksgovimg. — with <a href=\"https://foursquare.com/user/89549\">Pj</a></p>\n",
+				"content_html": "<p>Kat&rsquo;s Place.. Thanksgovimg. — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
 				"content_text": "Kat's Place.. Thanksgovimg. — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
 				"date_published": "2023-11-23T14:13:08-05:00",
 				"url": "https://cambridgeport90.org/2023/11/23/kats-place-thanksgovimg.html",
@@ -17394,7 +17402,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/09/26/finished-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780874771503/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780874771503\">The New Diary</a> by Tristine Rainer 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780874771503\">The New Diary</a> by Tristine Rainer 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780874771503/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The New Diary](https://micro.blog/books/9780874771503) by Tristine Rainer 📚\n",
 				"date_published": "2023-09-26T08:25:32-05:00",
 				"url": "https://cambridgeport90.org/2023/09/26/finished-reading-the.html"
@@ -17654,7 +17662,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/09/19/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798693942981/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9798693942981\">The Song of the First Blade</a> by T. C. Edge 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9798693942981\">The Song of the First Blade</a> by T. C. Edge 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9798693942981/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Song of the First Blade](https://micro.blog/books/9798693942981) by T. C. Edge 📚\n",
 				"date_published": "2023-09-19T07:54:41-05:00",
 				"url": "https://cambridgeport90.org/2023/09/19/currently-reading-the.html"
@@ -17732,7 +17740,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/09/16/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780874771503/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780874771503\">The New Diary</a> by Tristine Rainer 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780874771503\">The New Diary</a> by Tristine Rainer 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780874771503/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The New Diary](https://micro.blog/books/9780874771503) by Tristine Rainer 📚\n",
 				"date_published": "2023-09-16T12:57:18-05:00",
 				"url": "https://cambridgeport90.org/2023/09/16/currently-reading-the.html"
@@ -17740,7 +17748,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/09/16/finished-reading-iron.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781460392928/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781460392928\">Iron Fey Series Volume 1</a> by Julie Kagawa 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781460392928\">Iron Fey Series Volume 1</a> by Julie Kagawa 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781460392928/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Iron Fey Series Volume 1](https://micro.blog/books/9781460392928) by Julie Kagawa 📚\n",
 				"date_published": "2023-09-16T12:55:14-05:00",
 				"url": "https://cambridgeport90.org/2023/09/16/finished-reading-iron.html"
@@ -18155,7 +18163,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/09/07/currently-reading-beyond.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250198754/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781250198754\">Beyond the Black Door</a> by A.M. Strickland 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781250198754\">Beyond the Black Door</a> by A.M. Strickland 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250198754/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Beyond the Black Door](https://micro.blog/books/9781250198754) by A.M. Strickland 📚\n",
 				"date_published": "2023-09-07T08:17:05-05:00",
 				"url": "https://cambridgeport90.org/2023/09/07/currently-reading-beyond.html"
@@ -18286,7 +18294,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/09/04/currently-reading-iron.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781460392928/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781460392928\">Iron Fey Series Volume 1</a> by Julie Kagawa 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781460392928\">Iron Fey Series Volume 1</a> by Julie Kagawa 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781460392928/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Iron Fey Series Volume 1](https://micro.blog/books/9781460392928) by Julie Kagawa 📚\n",
 				"date_published": "2023-09-04T11:56:34-05:00",
 				"url": "https://cambridgeport90.org/2023/09/04/currently-reading-iron.html"
@@ -18294,7 +18302,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/09/04/finished-reading-tracers.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780385548106/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780385548106\">Tracers in the Dark</a> by Andy Greenberg 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780385548106\">Tracers in the Dark</a> by Andy Greenberg 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780385548106/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Tracers in the Dark](https://micro.blog/books/9780385548106) by Andy Greenberg 📚\n",
 				"date_published": "2023-09-04T11:40:08-05:00",
 				"url": "https://cambridgeport90.org/2023/09/04/finished-reading-tracers.html"
@@ -18373,7 +18381,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/09/03/the-cheesecake-factory.html",
 				
-				"content_html": "<p>The Cheesecake Factory. Early lunch and Labor Day weekend. Why not? — with <a href=\"https://foursquare.com/user/89549\">Pj</a></p>\n",
+				"content_html": "<p>The Cheesecake Factory. Early lunch and Labor Day weekend. Why not? — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
 				"content_text": "The Cheesecake Factory. Early lunch and Labor Day weekend. Why not? — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
 				"date_published": "2023-09-03T08:52:39-05:00",
 				"url": "https://cambridgeport90.org/2023/09/03/the-cheesecake-factory.html",
@@ -18609,7 +18617,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/08/28/currently-reading-tracers.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780385548106/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780385548106\">Tracers in the Dark</a> by Andy Greenberg 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780385548106\">Tracers in the Dark</a> by Andy Greenberg 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780385548106/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Tracers in the Dark](https://micro.blog/books/9780385548106) by Andy Greenberg 📚\n",
 				"date_published": "2023-08-28T14:05:02-05:00",
 				"url": "https://cambridgeport90.org/2023/08/28/currently-reading-tracers.html"
@@ -18617,7 +18625,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/08/28/finished-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780007264896/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780007264896\">The Silmarillion</a> by J. R. R. Tolkien 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780007264896\">The Silmarillion</a> by J. R. R. Tolkien 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780007264896/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Silmarillion](https://micro.blog/books/9780007264896) by J. R. R. Tolkien 📚\n",
 				"date_published": "2023-08-28T09:52:00-05:00",
 				"url": "https://cambridgeport90.org/2023/08/28/finished-reading-the.html"
@@ -18625,7 +18633,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/08/28/finished-reading-facebook.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780735213166/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780735213166\">Facebook: The Inside Story</a> by Steven Levy 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780735213166\">Facebook: The Inside Story</a> by Steven Levy 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780735213166/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Facebook: The Inside Story](https://micro.blog/books/9780735213166) by Steven Levy 📚\n",
 				"date_published": "2023-08-28T09:51:04-05:00",
 				"url": "https://cambridgeport90.org/2023/08/28/finished-reading-facebook.html"
@@ -19235,7 +19243,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/08/13/apartments-at-been.html",
 				
-				"content_html": "<p>Apartments At 596. Been a while — with <a href=\"https://foursquare.com/user/89549\">Pj</a></p>\n",
+				"content_html": "<p>Apartments At 596. Been a while — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
 				"content_text": "Apartments At 596. Been a while — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
 				"date_published": "2023-08-13T12:55:13-05:00",
 				"url": "https://cambridgeport90.org/2023/08/13/apartments-at-been.html",
@@ -19708,7 +19716,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/08/01/finished-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781101973639/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101973639\">The Friendly Orange Glow</a> by Brian Dear 📚</p>\n<p>If you enjoy tech history, then grab this one! It&rsquo;s well written, and a fascinating look into the technology before Windows, before Mac, before everything, and&hellip;what they had for tech back in the &lsquo;60&rsquo;s? Was like nothing in this world.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101973639\">The Friendly Orange Glow</a> by Brian Dear 📚</p>\n<p>If you enjoy tech history, then grab this one! It&rsquo;s well written, and a fascinating look into the technology before Windows, before Mac, before everything, and&hellip;what they had for tech back in the &lsquo;60&rsquo;s? Was like nothing in this world.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781101973639/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Friendly Orange Glow](https://micro.blog/books/9781101973639) by Brian Dear 📚\r\n\r\nIf you enjoy tech history, then grab this one! It's well written, and a fascinating look into the technology before Windows, before Mac, before everything, and...what they had for tech back in the '60's? Was like nothing in this world. \n",
 				"date_published": "2023-08-01T07:56:17-05:00",
 				"url": "https://cambridgeport90.org/2023/08/01/finished-reading-the.html"
@@ -19938,7 +19946,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/26/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781101973639/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781101973639\">The Friendly Orange Glow</a> by Brian Dear 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781101973639\">The Friendly Orange Glow</a> by Brian Dear 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781101973639/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Friendly Orange Glow](https://micro.blog/books/9781101973639) by Brian Dear 📚\n",
 				"date_published": "2023-07-26T08:29:09-05:00",
 				"url": "https://cambridgeport90.org/2023/07/26/currently-reading-the.html"
@@ -19971,7 +19979,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/23/the-cheesecake-factory.html",
 				
-				"content_html": "<p>The Cheesecake Factory. We haven’t done this since January. Should be a blast. — with <a href=\"https://foursquare.com/user/89549\">Pj</a></p>\n",
+				"content_html": "<p>The Cheesecake Factory. We haven’t done this since January. Should be a blast. — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
 				"content_text": "The Cheesecake Factory. We haven’t done this since January. Should be a blast. — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
 				"date_published": "2023-07-23T08:56:47-05:00",
 				"url": "https://cambridgeport90.org/2023/07/23/the-cheesecake-factory.html",
@@ -19980,7 +19988,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/22/finished-reading-space.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798987032411/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9798987032411\">Space Rogue: How the Hackers Known as L0pht Changed the World</a> by Cris Thomas 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9798987032411\">Space Rogue: How the Hackers Known as L0pht Changed the World</a> by Cris Thomas 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9798987032411/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Space Rogue: How the Hackers Known as L0pht Changed the World](https://micro.blog/books/9798987032411) by Cris Thomas 📚\n",
 				"date_published": "2023-07-22T13:01:07-05:00",
 				"url": "https://cambridgeport90.org/2023/07/22/finished-reading-space.html"
@@ -19996,7 +20004,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/21/currently-reading-space.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798987032411/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9798987032411\">Space Rogue: How the Hackers Known as L0pht Changed the World</a> by Cris Thomas 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9798987032411\">Space Rogue: How the Hackers Known as L0pht Changed the World</a> by Cris Thomas 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9798987032411/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Space Rogue: How the Hackers Known as L0pht Changed the World](https://micro.blog/books/9798987032411) by Cris Thomas 📚\n",
 				"date_published": "2023-07-21T08:41:56-05:00",
 				"url": "https://cambridgeport90.org/2023/07/21/currently-reading-space.html"
@@ -20004,7 +20012,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/19/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780007264896/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780007264896\">The Silmarillion</a> by J. R. R. Tolkien 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780007264896\">The Silmarillion</a> by J. R. R. Tolkien 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780007264896/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Silmarillion](https://micro.blog/books/9780007264896) by J. R. R. Tolkien 📚\n",
 				"date_published": "2023-07-19T07:12:43-05:00",
 				"url": "https://cambridgeport90.org/2023/07/19/currently-reading-the.html"
@@ -20012,7 +20020,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/19/finished-reading-a.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781526617163/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781526617163\">A Court of Mist and Fury</a> by Sarah J. Maas 📚</p>\n<p>This series is getting good, however, I think I&rsquo;ll take a quick hiatus and read some Tolkien in the middle of it.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781526617163\">A Court of Mist and Fury</a> by Sarah J. Maas 📚</p>\n<p>This series is getting good, however, I think I&rsquo;ll take a quick hiatus and read some Tolkien in the middle of it.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781526617163/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [A Court of Mist and Fury](https://micro.blog/books/9781526617163) by Sarah J. Maas 📚 \r\n\r\nThis series is getting good, however, I think I'll take a quick hiatus and read some Tolkien in the middle of it. \n",
 				"date_published": "2023-07-19T07:11:00-05:00",
 				"url": "https://cambridgeport90.org/2023/07/19/finished-reading-a.html"
@@ -20046,7 +20054,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/13/currently-reading-a.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781526617163/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781526617163\">A Court of Mist and Fury</a> by Sarah J. Maas 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781526617163\">A Court of Mist and Fury</a> by Sarah J. Maas 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781526617163/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [A Court of Mist and Fury](https://micro.blog/books/9781526617163) by Sarah J. Maas 📚\n",
 				"date_published": "2023-07-13T08:29:28-05:00",
 				"url": "https://cambridgeport90.org/2023/07/13/currently-reading-a.html"
@@ -20054,7 +20062,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/13/finished-reading-a.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781619634459/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781619634459\">A Court of Thorns and Roses</a> by Sarah J. Maas 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781619634459\">A Court of Thorns and Roses</a> by Sarah J. Maas 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781619634459/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [A Court of Thorns and Roses](https://micro.blog/books/9781619634459) by Sarah J. Maas 📚\n",
 				"date_published": "2023-07-13T07:46:21-05:00",
 				"url": "https://cambridgeport90.org/2023/07/13/finished-reading-a.html"
@@ -20079,7 +20087,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/09/currently-reading-a.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781619634459/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781619634459\">A Court of Thorns and Roses</a> by Sarah J. Maas 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781619634459\">A Court of Thorns and Roses</a> by Sarah J. Maas 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781619634459/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [A Court of Thorns and Roses](https://micro.blog/books/9781619634459) by Sarah J. Maas 📚\n",
 				"date_published": "2023-07-09T00:01:47-05:00",
 				"url": "https://cambridgeport90.org/2023/07/09/currently-reading-a.html"
@@ -20087,7 +20095,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/09/finished-reading-paternus.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780997173765/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780997173765\">Paternus</a> by Dyrk Ashton 📚\nJust read the third book in this trilogy, and wow, was that something. Author definitely takes a lot of liverties with mythologies, and the result is absolutely amazing. I&rsquo;ll not give anything away in the event fantasy lovers who follow me desire to read this.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780997173765\">Paternus</a> by Dyrk Ashton 📚\nJust read the third book in this trilogy, and wow, was that something. Author definitely takes a lot of liverties with mythologies, and the result is absolutely amazing. I&rsquo;ll not give anything away in the event fantasy lovers who follow me desire to read this.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780997173765/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Paternus](https://micro.blog/books/9780997173765) by Dyrk Ashton 📚\r\nJust read the third book in this trilogy, and wow, was that something. Author definitely takes a lot of liverties with mythologies, and the result is absolutely amazing. I'll not give anything away in the event fantasy lovers who follow me desire to read this.\n",
 				"date_published": "2023-07-08T23:58:35-05:00",
 				"url": "https://cambridgeport90.org/2023/07/09/finished-reading-paternus.html"
@@ -20103,7 +20111,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/07/08/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780553805444/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780553805444\">The World of Ice &amp; Fire</a> by George R. R. Martin 📚</p>\n<p>I realized that this book seemingly comes first in series, and is more an ancient text, so to speak, than is fire and Blood. Will read this alongside more of Sarah J. Maas. Will restart A Court of Thorns and Roses, though need to finish up Paternus Trilogy first.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780553805444\">The World of Ice &amp; Fire</a> by George R. R. Martin 📚</p>\n<p>I realized that this book seemingly comes first in series, and is more an ancient text, so to speak, than is fire and Blood. Will read this alongside more of Sarah J. Maas. Will restart A Court of Thorns and Roses, though need to finish up Paternus Trilogy first.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780553805444/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The World of Ice & Fire](https://micro.blog/books/9780553805444) by George R. R. Martin 📚 \r\n\r\nI realized that this book seemingly comes first in series, and is more an ancient text, so to speak, than is fire and Blood. Will read this alongside more of Sarah J. Maas. Will restart A Court of Thorns and Roses, though need to finish up Paternus Trilogy first. \n",
 				"date_published": "2023-07-08T13:17:14-05:00",
 				"url": "https://cambridgeport90.org/2023/07/08/currently-reading-the.html"
@@ -20111,7 +20119,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/28/currently-reading-fire.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780008563790/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780008563790\">Fire and Blood</a> by GEORGE R.R. MARTIN 📚\nI just recently found this; my book list has changed once again;</p>\n<ul>\n<li>fire and blood\nworld of Ice and Fire\nA Song Of Ice And Fire\nA Court Of thorns and roses\nFae Of tiria (I need to finish that.)</li>\n</ul>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780008563790\">Fire and Blood</a> by GEORGE R.R. MARTIN 📚\nI just recently found this; my book list has changed once again;</p>\n<ul>\n<li>fire and blood\nworld of Ice and Fire\nA Song Of Ice And Fire\nA Court Of thorns and roses\nFae Of tiria (I need to finish that.)</li>\n</ul>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780008563790/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Fire and Blood](https://micro.blog/books/9780008563790) by GEORGE R.R. MARTIN 📚\r\nI just recently found this; my book list has changed once again; \r\n- fire and blood\r\n  world of Ice and Fire\r\n    A Song Of Ice And Fire\r\n  A Court Of thorns and roses\r\n  Fae Of tiria (I need to finish that.)\n",
 				"date_published": "2023-06-28T08:27:14-05:00",
 				"url": "https://cambridgeport90.org/2023/06/28/currently-reading-fire.html"
@@ -20127,7 +20135,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/26/finished-reading-war.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781510773875/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781510773875\">War on Ivermectin</a> by Pierre Kory 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781510773875\">War on Ivermectin</a> by Pierre Kory 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781510773875/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [War on Ivermectin](https://micro.blog/books/9781510773875) by Pierre Kory 📚\n",
 				"date_published": "2023-06-26T08:34:02-05:00",
 				"url": "https://cambridgeport90.org/2023/06/26/finished-reading-war.html"
@@ -20143,7 +20151,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/22/currently-reading-paternus.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780997173789/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780997173789\">Paternus</a> by Dyrk Ashton 📚\nI think this is going to be one of the best Fantasy genre novels I have read in a while. I started it&hellip;now going back to it.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780997173789\">Paternus</a> by Dyrk Ashton 📚\nI think this is going to be one of the best Fantasy genre novels I have read in a while. I started it&hellip;now going back to it.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780997173789/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Paternus](https://micro.blog/books/9780997173789) by Dyrk Ashton 📚\r\nI think this is going to be one of the best Fantasy genre novels I have read in a while. I started it...now going back to it. \n",
 				"date_published": "2023-06-22T07:13:35-05:00",
 				"url": "https://cambridgeport90.org/2023/06/22/currently-reading-paternus.html"
@@ -20167,7 +20175,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/12/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798666265130/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9798666265130\">The Ruined Temple</a> by T. J. Reynolds 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9798666265130\">The Ruined Temple</a> by T. J. Reynolds 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9798666265130/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Ruined Temple](https://micro.blog/books/9798666265130) by T. J. Reynolds 📚\n",
 				"date_published": "2023-06-12T10:58:27-05:00",
 				"url": "https://cambridgeport90.org/2023/06/12/currently-reading-the.html"
@@ -20175,7 +20183,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/12/fantasy-the-ruined.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798666265130/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>fantasy: <a href=\"https://micro.blog/books/9798666265130\">The Ruined Temple</a> by T. J. Reynolds 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>fantasy: <a href=\"https://micro.blog/books/9798666265130\">The Ruined Temple</a> by T. J. Reynolds 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9798666265130/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nfantasy: [The Ruined Temple](https://micro.blog/books/9798666265130) by T. J. Reynolds 📚\n",
 				"date_published": "2023-06-12T10:57:21-05:00",
 				"url": "https://cambridgeport90.org/2023/06/12/fantasy-the-ruined.html"
@@ -20191,7 +20199,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/12/finished-reading-shattered.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798638978440/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9798638978440\">Shattered Sword</a> by T. J. Reynolds 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9798638978440\">Shattered Sword</a> by T. J. Reynolds 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9798638978440/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Shattered Sword](https://micro.blog/books/9798638978440) by T. J. Reynolds 📚\n",
 				"date_published": "2023-06-12T09:08:22-05:00",
 				"url": "https://cambridgeport90.org/2023/06/12/finished-reading-shattered.html"
@@ -20199,7 +20207,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/11/email-addresses-should.html",
 				"title": "Email Addresses: Should They Match One’s Domain?",
-				"content_html": "<p>You guys in the IndieWeb know what sucks? The automatic assumption that people’s email addresses are going to end with <a href=\"https://outlook.com\">Outlook</a>, <a href=\"https://gmail.com\">GMail</a>, or some other provider’s domain. Why not allow for any address, and only filter on the format, instead of the provider name? Seems kinda stupid to me unless there is some greater factor on the technical side that I’m missing? If there is, please let me know. I will say, TikTok if one of the worst offenders of this; they have all of the providers listed…everything except for a custom domain entry field. Am I complaining over nothing? Yes, I get the whole majority of users thing; we’re not talking about that; the folks with custom domains in their email addresses will know who you are and will be able to complete the field correctly. If I missed something, let me know. In light of most services and what not expecting an existing provider, I’m seriously not bringing my custom domain back for email; matches this site, but still, so many get it wrong. Is it the email address, or is it the domain that’s wrong?</p>\n<p>Maybe it’s time to go into the underlying history of where this domain name came from. First of all, I wanted to be unique among my peers on the internet, and in order to make my site truly personal, I did away with the <YourName> examples of some others, and chose to make my domain ame based on a memory from back in May of 2014. Some friends and I were running around Cambridge, Massachusetts, near the neighborhood of Cambridgeport. Interstate 90, a.k.a. The Mass Pike (at least where I live, though other sections of it are named differently in multiple states), and that domain popped into existence, and has been with me for at least the past nine years. Yet including it in my eemail address seems to confuse both people and systems alike; what does the rest of the Indieweb sector do? Comments please!</p>\n<p>Kat, a.k.a. C.P.90</p>\n",
+				"content_html": "<p>You guys in the IndieWeb know what sucks? The automatic assumption that people’s email addresses are going to end with <a href=\"https://outlook.com\">Outlook</a>, <a href=\"https://gmail.com\">GMail</a>, or some other provider’s domain. Why not allow for any address, and only filter on the format, instead of the provider name? Seems kinda stupid to me unless there is some greater factor on the technical side that I’m missing? If there is, please let me know. I will say, TikTok if one of the worst offenders of this; they have all of the providers listed…everything except for a custom domain entry field. Am I complaining over nothing? Yes, I get the whole majority of users thing; we’re not talking about that; the folks with custom domains in their email addresses will know who you are and will be able to complete the field correctly. If I missed something, let me know. In light of most services and what not expecting an existing provider, I’m seriously not bringing my custom domain back for email; matches this site, but still, so many get it wrong. Is it the email address, or is it the domain that’s wrong?</p>\n<p>Maybe it’s time to go into the underlying history of where this domain name came from. First of all, I wanted to be unique among my peers on the internet, and in order to make my site truly personal, I did away with the <!-- raw HTML omitted --> examples of some others, and chose to make my domain ame based on a memory from back in May of 2014. Some friends and I were running around Cambridge, Massachusetts, near the neighborhood of Cambridgeport. Interstate 90, a.k.a. The Mass Pike (at least where I live, though other sections of it are named differently in multiple states), and that domain popped into existence, and has been with me for at least the past nine years. Yet including it in my eemail address seems to confuse both people and systems alike; what does the rest of the Indieweb sector do? Comments please!</p>\n<p>Kat, a.k.a. C.P.90</p>\n",
 				"content_text": "You guys in the IndieWeb know what sucks? The automatic assumption that people’s email addresses are going to end with [Outlook](https://outlook.com), [GMail](https://gmail.com), or some other provider’s domain. Why not allow for any address, and only filter on the format, instead of the provider name? Seems kinda stupid to me unless there is some greater factor on the technical side that I’m missing? If there is, please let me know. I will say, TikTok if one of the worst offenders of this; they have all of the providers listed…everything except for a custom domain entry field. Am I complaining over nothing? Yes, I get the whole majority of users thing; we’re not talking about that; the folks with custom domains in their email addresses will know who you are and will be able to complete the field correctly. If I missed something, let me know. In light of most services and what not expecting an existing provider, I’m seriously not bringing my custom domain back for email; matches this site, but still, so many get it wrong. Is it the email address, or is it the domain that’s wrong? \n\nMaybe it’s time to go into the underlying history of where this domain name came from. First of all, I wanted to be unique among my peers on the internet, and in order to make my site truly personal, I did away with the <YourName> examples of some others, and chose to make my domain ame based on a memory from back in May of 2014. Some friends and I were running around Cambridge, Massachusetts, near the neighborhood of Cambridgeport. Interstate 90, a.k.a. The Mass Pike (at least where I live, though other sections of it are named differently in multiple states), and that domain popped into existence, and has been with me for at least the past nine years. Yet including it in my eemail address seems to confuse both people and systems alike; what does the rest of the Indieweb sector do? Comments please!\n\nKat, a.k.a. C.P.90\n",
 				"date_published": "2023-06-11T18:08:22-05:00",
 				"url": "https://cambridgeport90.org/2023/06/11/email-addresses-should.html"
@@ -20207,7 +20215,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/08/currently-reading-shattered.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798638978440/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9798638978440\">Shattered Sword</a> by T. J. Reynolds:\nHaven&rsquo;t read a LitRPG series in a while, so I sort of paused the Bladeborn Saga for a bit.\n`📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9798638978440\">Shattered Sword</a> by T. J. Reynolds:\nHaven&rsquo;t read a LitRPG series in a while, so I sort of paused the Bladeborn Saga for a bit.\n`📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9798638978440/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Shattered Sword](https://micro.blog/books/9798638978440) by T. J. Reynolds:\r\nHaven't read a LitRPG series in a while, so I sort of paused the Bladeborn Saga for a bit.\r\n `📚\n",
 				"date_published": "2023-06-08T10:06:22-05:00",
 				"url": "https://cambridgeport90.org/2023/06/08/currently-reading-shattered.html"
@@ -20231,7 +20239,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/04/currently-reading-countdown.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780770436186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780770436186\">Countdown to Zero Day</a> by Kim Zetter 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780770436186\">Countdown to Zero Day</a> by Kim Zetter 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780770436186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Countdown to Zero Day](https://micro.blog/books/9780770436186) by Kim Zetter 📚\n",
 				"date_published": "2023-06-04T10:02:35-05:00",
 				"url": "https://cambridgeport90.org/2023/06/04/currently-reading-countdown.html"
@@ -20239,7 +20247,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/04/finished-reading-metabolical.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780063027732/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780063027732\">Metabolical</a> by Robert H. Lustig 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780063027732\">Metabolical</a> by Robert H. Lustig 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780063027732/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Metabolical](https://micro.blog/books/9780063027732) by Robert H. Lustig 📚\n",
 				"date_published": "2023-06-04T09:58:12-05:00",
 				"url": "https://cambridgeport90.org/2023/06/04/finished-reading-metabolical.html"
@@ -20255,7 +20263,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/06/01/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798693942981/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9798693942981\">The Song of the First Blade</a> by T. C. Edge 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9798693942981\">The Song of the First Blade</a> by T. C. Edge 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9798693942981/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Song of the First Blade](https://micro.blog/books/9798693942981) by T. C. Edge 📚\n",
 				"date_published": "2023-06-01T07:19:04-05:00",
 				"url": "https://cambridgeport90.org/2023/06/01/currently-reading-the.html"
@@ -20271,7 +20279,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/05/31/currently-reading-paternus.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780997173789/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780997173789\">Paternus</a> by Dyrk Ashton 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780997173789\">Paternus</a> by Dyrk Ashton 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780997173789/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Paternus](https://micro.blog/books/9780997173789) by Dyrk Ashton 📚\n",
 				"date_published": "2023-05-31T10:15:55-05:00",
 				"url": "https://cambridgeport90.org/2023/05/31/currently-reading-paternus.html"
@@ -20295,7 +20303,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/05/31/finished-reading-house.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781635574081/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781635574081\">House of Sky and Breath</a> by Sarah J. Maas 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781635574081\">House of Sky and Breath</a> by Sarah J. Maas 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781635574081/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [House of Sky and Breath](https://micro.blog/books/9781635574081) by Sarah J. Maas 📚\n",
 				"date_published": "2023-05-31T07:27:01-05:00",
 				"url": "https://cambridgeport90.org/2023/05/31/finished-reading-house.html"
@@ -20311,7 +20319,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/05/25/currently-reading-house.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781635574081/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781635574081\">House of Sky and Breath</a> by Sarah J. Maas 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781635574081\">House of Sky and Breath</a> by Sarah J. Maas 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781635574081/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [House of Sky and Breath](https://micro.blog/books/9781635574081) by Sarah J. Maas 📚\n",
 				"date_published": "2023-05-25T15:17:39-05:00",
 				"url": "https://cambridgeport90.org/2023/05/25/currently-reading-house.html"
@@ -20377,7 +20385,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/05/13/finished-reading-children.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780465096992/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780465096992\">Children of Ash and Elm</a> by Neil Price 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780465096992\">Children of Ash and Elm</a> by Neil Price 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780465096992/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Children of Ash and Elm](https://micro.blog/books/9780465096992) by Neil Price 📚\n",
 				"date_published": "2023-05-13T11:51:02-05:00",
 				"url": "https://cambridgeport90.org/2023/05/13/finished-reading-children.html"
@@ -20385,7 +20393,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/05/05/another-fantasy-series.html",
 				"title": "Another Fantasy Series For The Ages...I think",
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781635574050/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>fantasy: <a href=\"https://micro.blog/books/9781635574050\">House of Earth and Blood</a> by Sarah J. Maas \nJust began reading this so that I can complete the Escape achievement from Amazon&hellip;and because I love sarah&rsquo;s books, and I want to see her continue. A lot of the reviews of this series I have read say that it sucks, however, I have a feeling that most of those folks reading (sorry if that&rsquo;s anyone here), are simply glossing over the surface of the novel&rsquo;s plot and not really taking it&rsquo;s full worth. \n📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>fantasy: <a href=\"https://micro.blog/books/9781635574050\">House of Earth and Blood</a> by Sarah J. Maas \nJust began reading this so that I can complete the Escape achievement from Amazon&hellip;and because I love sarah&rsquo;s books, and I want to see her continue. A lot of the reviews of this series I have read say that it sucks, however, I have a feeling that most of those folks reading (sorry if that&rsquo;s anyone here), are simply glossing over the surface of the novel&rsquo;s plot and not really taking it&rsquo;s full worth. \n📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781635574050/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nfantasy: [House of Earth and Blood](https://micro.blog/books/9781635574050) by Sarah J. Maas \r\nJust began reading this so that I can complete the Escape achievement from Amazon...and because I love sarah's books, and I want to see her continue. A lot of the reviews of this series I have read say that it sucks, however, I have a feeling that most of those folks reading (sorry if that's anyone here), are simply glossing over the surface of the novel's plot and not really taking it's full worth. \r\n📚\r\n",
 				"date_published": "2023-05-05T09:49:22-05:00",
 				"url": "https://cambridgeport90.org/2023/05/05/another-fantasy-series.html",
@@ -20445,7 +20453,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/05/01/currently-reading-rise.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780997173703/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780997173703\">Rise Of Gods</a> by Dyrk Ashton 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780997173703\">Rise Of Gods</a> by Dyrk Ashton 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780997173703/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Rise Of Gods](https://micro.blog/books/9780997173703) by Dyrk Ashton 📚\n",
 				"date_published": "2023-05-01T08:48:00-05:00",
 				"url": "https://cambridgeport90.org/2023/05/01/currently-reading-rise.html",
@@ -20454,7 +20462,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/04/27/lets-discuss-imagination.html",
 				"title": "Let's Discuss Imagination, Religion, and Truth in 2023: Part I",
-				"content_html": "<h1 id=\"lets-expand-my-earlier-talk\">Let&rsquo;s Expand My Earlier Talk</h1>\n<p>earlier today, on my account over [on Faeborn Networks](<a href=\"https://social.faebornnetworks.org/@kmmoss\">@kmmoss@social.faebornnetworks.org</a>), I made a thread; in it, I endeavored to discuss the problems of this world from a larger prospective than the typical one that we normally see today; that of politics, racism, and your typical woke BS. Nah, I&rsquo;m not going to sit here and bore you with that. I see enough of it every single damn day.</p>\n<h2 id=\"back-to-basics\">Back To Basics</h2>\n<p>Part of the problem, and while others might have a varying opinion about this, and that&rsquo;s fine, underlying our society is parenting styles. Let&rsquo;s talk about children today; and no, I&rsquo;m not referring to abortion and my opinions on that; that&rsquo;s a different topic that might or might not be discussed in this space. I have not decided yet. Either way, moving on. \nLet&rsquo;s first get the facts out of the way:</p>\n<ul>\n<li>I am an only child</li>\n<li>I was brought up in a mostly Catholic household</li>\n<li>Catholicism stopped serving me fairly early in my teenage years (you&rsquo;ll read why in a second.)</li>\n</ul>\n<h3 id=\"necessary-reforms\">Necessary Reforms</h3>\n<p>As previously stated, there are definitely some things that we can do to improve the world as it currently stands. I made the mistake of feeling hopeless, like there was nothing I could do, too, so I can hopefully begin in this post to help others improve their outlooks on life, the way I have. Primary takeaway? Find your own path. That, right there, is something which I never found the heart to do when I was a teenager, but then, I was finally able to gather the courage to say, &ldquo;enough is enough.&rdquo; I realized that all I had been doing is living in the shadow of somebody else; I was loath to continue doing that when I finally became a true (note how I say true, not a legal), adult. When I turned eighteen, frankly, I barely knew anything, and even at 33, going on 34, there&rsquo;s still a lot of stuff I don&rsquo;t know, and honestly, there always will be. In the next post, I will proceed to tell the full story of how I broke free from some parts of my upbringing, and how good it felt.</p>\n",
+				"content_html": "<h1 id=\"lets-expand-my-earlier-talk\">Let&rsquo;s Expand My Earlier Talk</h1>\n<p>earlier today, on my account over [on Faeborn Networks](<!-- raw HTML omitted -->@kmmoss@social.faebornnetworks.org<!-- raw HTML omitted -->), I made a thread; in it, I endeavored to discuss the problems of this world from a larger prospective than the typical one that we normally see today; that of politics, racism, and your typical woke BS. Nah, I&rsquo;m not going to sit here and bore you with that. I see enough of it every single damn day.</p>\n<h2 id=\"back-to-basics\">Back To Basics</h2>\n<p>Part of the problem, and while others might have a varying opinion about this, and that&rsquo;s fine, underlying our society is parenting styles. Let&rsquo;s talk about children today; and no, I&rsquo;m not referring to abortion and my opinions on that; that&rsquo;s a different topic that might or might not be discussed in this space. I have not decided yet. Either way, moving on. \nLet&rsquo;s first get the facts out of the way:</p>\n<ul>\n<li>I am an only child</li>\n<li>I was brought up in a mostly Catholic household</li>\n<li>Catholicism stopped serving me fairly early in my teenage years (you&rsquo;ll read why in a second.)</li>\n</ul>\n<h3 id=\"necessary-reforms\">Necessary Reforms</h3>\n<p>As previously stated, there are definitely some things that we can do to improve the world as it currently stands. I made the mistake of feeling hopeless, like there was nothing I could do, too, so I can hopefully begin in this post to help others improve their outlooks on life, the way I have. Primary takeaway? Find your own path. That, right there, is something which I never found the heart to do when I was a teenager, but then, I was finally able to gather the courage to say, &ldquo;enough is enough.&rdquo; I realized that all I had been doing is living in the shadow of somebody else; I was loath to continue doing that when I finally became a true (note how I say true, not a legal), adult. When I turned eighteen, frankly, I barely knew anything, and even at 33, going on 34, there&rsquo;s still a lot of stuff I don&rsquo;t know, and honestly, there always will be. In the next post, I will proceed to tell the full story of how I broke free from some parts of my upbringing, and how good it felt.</p>\n",
 				"content_text": "# Let's Expand My Earlier Talk\r\n\r\nearlier today, on my account over [on Faeborn Networks](<a href=\"https://social.faebornnetworks.org/@kmmoss\">@kmmoss@social.faebornnetworks.org</a>), I made a thread; in it, I endeavored to discuss the problems of this world from a larger prospective than the typical one that we normally see today; that of politics, racism, and your typical woke BS. Nah, I'm not going to sit here and bore you with that. I see enough of it every single damn day. \r\n\r\n## Back To Basics\r\n\r\nPart of the problem, and while others might have a varying opinion about this, and that's fine, underlying our society is parenting styles. Let's talk about children today; and no, I'm not referring to abortion and my opinions on that; that's a different topic that might or might not be discussed in this space. I have not decided yet. Either way, moving on. \r\nLet's first get the facts out of the way:\r\n- I am an only child\r\n- I was brought up in a mostly Catholic household\r\n- Catholicism stopped serving me fairly early in my teenage years (you'll read why in a second.)\r\n\r\n### Necessary Reforms\r\nAs previously stated, there are definitely some things that we can do to improve the world as it currently stands. I made the mistake of feeling hopeless, like there was nothing I could do, too, so I can hopefully begin in this post to help others improve their outlooks on life, the way I have. Primary takeaway? Find your own path. That, right there, is something which I never found the heart to do when I was a teenager, but then, I was finally able to gather the courage to say, \"enough is enough.\" I realized that all I had been doing is living in the shadow of somebody else; I was loath to continue doing that when I finally became a true (note how I say true, not a legal), adult. When I turned eighteen, frankly, I barely knew anything, and even at 33, going on 34, there's still a lot of stuff I don't know, and honestly, there always will be. In the next post, I will proceed to tell the full story of how I broke free from some parts of my upbringing, and how good it felt.\n",
 				"date_published": "2023-04-27T12:32:30-05:00",
 				"url": "https://cambridgeport90.org/2023/04/27/lets-discuss-imagination.html"
@@ -20462,7 +20470,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/04/26/finished-reading-awakening.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780999758717/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780999758717\">Awakening</a> by Bethany Adams</p>\n<p>All I can say about this book is that the plot thickens, and this entire series is the complete opposite of predictable. I can&rsquo;t say any more than that without giving anything away, which I don&rsquo;t want to do.</p>\n<p>📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780999758717\">Awakening</a> by Bethany Adams</p>\n<p>All I can say about this book is that the plot thickens, and this entire series is the complete opposite of predictable. I can&rsquo;t say any more than that without giving anything away, which I don&rsquo;t want to do.</p>\n<p>📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780999758717/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Awakening](https://micro.blog/books/9780999758717) by Bethany Adams \r\n\r\nAll I can say about this book is that the plot thickens, and this entire series is the complete opposite of predictable. I can't say any more than that without giving anything away, which I don't want to do.\r\n\r\n📚\n",
 				"date_published": "2023-04-26T07:28:05-05:00",
 				"url": "https://cambridgeport90.org/2023/04/26/finished-reading-awakening.html"
@@ -20478,7 +20486,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/04/22/finished-reading-abyss.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780997532098/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780997532098\">Abyss</a> by Bethany Adams 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780997532098\">Abyss</a> by Bethany Adams 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780997532098/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Abyss](https://micro.blog/books/9780997532098) by Bethany Adams 📚\n",
 				"date_published": "2023-04-22T09:20:00-05:00",
 				"url": "https://cambridgeport90.org/2023/04/22/finished-reading-abyss.html",
@@ -20495,7 +20503,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/04/18/134843.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780804151405/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780804151405\">Hawaii</a> by James A. Michener 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780804151405\">Hawaii</a> by James A. Michener 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780804151405/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Hawaii](https://micro.blog/books/9780804151405) by James A. Michener 📚\n",
 				"date_published": "2023-04-18T12:48:43-05:00",
 				"url": "https://cambridgeport90.org/2023/04/18/134843.html",
@@ -20504,7 +20512,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/04/18/currently-reading-hawaii.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780804151405/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780804151405\">Hawaii</a> by James A. Michener 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780804151405\">Hawaii</a> by James A. Michener 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780804151405/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Hawaii](https://micro.blog/books/9780804151405) by James A. Michener 📚\n",
 				"date_published": "2023-04-18T12:48:40-05:00",
 				"url": "https://cambridgeport90.org/2023/04/18/currently-reading-hawaii.html",
@@ -20529,7 +20537,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/04/18/finished-reading-it.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781501175466/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781501175466\">It</a> by Stephen King</p>\n<p>This is one of those books that you have to actually read through to understand, and you won&rsquo;t be able to cut corners. If you take the horror out of it (for there is plenty of that), and look at it from a good-evil, or even a theological prospective, you will come up with something very different. \nAlso, unlike some, if you watch the movie, you won&rsquo;t find a better representation of what Pennywise actually looks like; even in the book it says, that no mind could comprehend what the creature really looked like, so if you were disappointed by either of the adaptations of this, how could you expect the producers to be able to, either?\n📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781501175466\">It</a> by Stephen King</p>\n<p>This is one of those books that you have to actually read through to understand, and you won&rsquo;t be able to cut corners. If you take the horror out of it (for there is plenty of that), and look at it from a good-evil, or even a theological prospective, you will come up with something very different. \nAlso, unlike some, if you watch the movie, you won&rsquo;t find a better representation of what Pennywise actually looks like; even in the book it says, that no mind could comprehend what the creature really looked like, so if you were disappointed by either of the adaptations of this, how could you expect the producers to be able to, either?\n📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501175466/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [It](https://micro.blog/books/9781501175466) by Stephen King\r\n\r\nThis is one of those books that you have to actually read through to understand, and you won't be able to cut corners. If you take the horror out of it (for there is plenty of that), and look at it from a good-evil, or even a theological prospective, you will come up with something very different. \r\nAlso, unlike some, if you watch the movie, you won't find a better representation of what Pennywise actually looks like; even in the book it says, that no mind could comprehend what the creature really looked like, so if you were disappointed by either of the adaptations of this, how could you expect the producers to be able to, either?\r\n📚\n",
 				"date_published": "2023-04-18T07:04:26-05:00",
 				"url": "https://cambridgeport90.org/2023/04/18/finished-reading-it.html"
@@ -20537,7 +20545,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/04/11/finished-reading-seared.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780997532067/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780997532067\">Seared</a> by Bethany Adams \nthis is getting good&hellip;haven&rsquo;t decided whether or not I&rsquo;m going to keep going with the series directly, or whether I&rsquo;m going to move onto a bit of horror to break things up. \n📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780997532067\">Seared</a> by Bethany Adams \nthis is getting good&hellip;haven&rsquo;t decided whether or not I&rsquo;m going to keep going with the series directly, or whether I&rsquo;m going to move onto a bit of horror to break things up. \n📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780997532067/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Seared](https://micro.blog/books/9780997532067) by Bethany Adams \r\nthis is getting good...haven't decided whether or not I'm going to keep going with the series directly, or whether I'm going to move onto a bit of horror to break things up. \r\n📚\n",
 				"date_published": "2023-04-11T09:19:39-05:00",
 				"url": "https://cambridgeport90.org/2023/04/11/finished-reading-seared.html"
@@ -20586,7 +20594,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/04/06/currently-reading-children.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780465096992/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780465096992\">Children of Ash and Elm</a> by Neil Price \nI have to say&hellip;I have read lots of stuff on the Vikings, but Neil&rsquo;s presentation of this magnificent people&hellip;is like he was there during their time. Highly recommended if you want a well-rounded, well-researched history of these wonderful explorers. 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780465096992\">Children of Ash and Elm</a> by Neil Price \nI have to say&hellip;I have read lots of stuff on the Vikings, but Neil&rsquo;s presentation of this magnificent people&hellip;is like he was there during their time. Highly recommended if you want a well-rounded, well-researched history of these wonderful explorers. 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780465096992/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Children of Ash and Elm](https://micro.blog/books/9780465096992) by Neil Price \r\nI have to say...I have read lots of stuff on the Vikings, but Neil's presentation of this magnificent people...is like he was there during their time. Highly recommended if you want a well-rounded, well-researched history of these wonderful explorers. 📚\n",
 				"date_published": "2023-04-06T07:51:40-05:00",
 				"url": "https://cambridgeport90.org/2023/04/06/currently-reading-children.html"
@@ -23512,7 +23520,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/01/13/currently-reading-a.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780345529060/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780345529060\">A Game of Thrones 4-Book Bundle</a> by George R. R. Martin I just had to get the whole bundle; the one I&rsquo;m reading is actually a bundle of all five books, but I don&rsquo;t think the current edition&rsquo;s in the OpenLibrary, or MB would have picked it up.</p>\n<p>📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780345529060\">A Game of Thrones 4-Book Bundle</a> by George R. R. Martin I just had to get the whole bundle; the one I&rsquo;m reading is actually a bundle of all five books, but I don&rsquo;t think the current edition&rsquo;s in the OpenLibrary, or MB would have picked it up.</p>\n<p>📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780345529060/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [A Game of Thrones 4-Book Bundle](https://micro.blog/books/9780345529060) by George R. R. Martin I just had to get the whole bundle; the one I'm reading is actually a bundle of all five books, but I don't think the current edition's in the OpenLibrary, or MB would have picked it up.\r\n\r\n📚\n",
 				"date_published": "2023-01-13T08:01:47-05:00",
 				"url": "https://cambridgeport90.org/2023/01/13/currently-reading-a.html"
@@ -23520,7 +23528,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/01/13/finished-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780062200655/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780062200655\">The Fireman</a> by Joe Hill \nOne of the best horror stories since Stephen King wrote his first&hellip;which was ages ago. Just the right amount of both science fiction and a little romance, though not overpowering in the least.\n📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780062200655\">The Fireman</a> by Joe Hill \nOne of the best horror stories since Stephen King wrote his first&hellip;which was ages ago. Just the right amount of both science fiction and a little romance, though not overpowering in the least.\n📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780062200655/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Fireman](https://micro.blog/books/9780062200655) by Joe Hill \r\nOne of the best horror stories since Stephen King wrote his first...which was ages ago. Just the right amount of both science fiction and a little romance, though not overpowering in the least.\r\n📚\n",
 				"date_published": "2023-01-13T07:56:44-05:00",
 				"url": "https://cambridgeport90.org/2023/01/13/finished-reading-the.html"
@@ -23659,7 +23667,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2023/01/10/finished-reading-captive.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781989096833/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781989096833\">Captive of Wolves</a> by Eva Chase\nthis was one of the best modern Fae series ever. Enjoying the second book, and will actually read this series straight through, I think. \n📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781989096833\">Captive of Wolves</a> by Eva Chase\nthis was one of the best modern Fae series ever. Enjoying the second book, and will actually read this series straight through, I think. \n📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781989096833/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Captive of Wolves](https://micro.blog/books/9781989096833) by Eva Chase\r\nthis was one of the best modern Fae series ever. Enjoying the second book, and will actually read this series straight through, I think. \r\n 📚\n",
 				"date_published": "2023-01-10T10:37:53-05:00",
 				"url": "https://cambridgeport90.org/2023/01/10/finished-reading-captive.html"
@@ -25303,7 +25311,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2022/12/02/earls-kitchen-bar.html",
 				
-				"content_html": "<p>Earls Kitchen + Bar. Because we can. — with <a href=\"https://foursquare.com/user/89549\">Pj</a></p>\n",
+				"content_html": "<p>Earls Kitchen + Bar. Because we can. — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
 				"content_text": "Earls Kitchen + Bar. Because we can. — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
 				"date_published": "2022-12-02T16:52:46-05:00",
 				"url": "https://cambridgeport90.org/2022/12/02/earls-kitchen-bar.html",
@@ -28948,7 +28956,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2022/09/17/faeborn-networks-forgot.html",
 				
-				"content_html": "<p>Faeborn Networks. Forgot to check us in earlier. — with <a href=\"https://foursquare.com/user/89549\">Pj</a></p>\n",
+				"content_html": "<p>Faeborn Networks. Forgot to check us in earlier. — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
 				"content_text": "Faeborn Networks. Forgot to check us in earlier. — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
 				"date_published": "2022-09-17T15:27:35-05:00",
 				"url": "https://cambridgeport90.org/2022/09/17/faeborn-networks-forgot.html",
@@ -28957,7 +28965,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2022/09/17/casa-blanca-restaurant.html",
 				
-				"content_html": "<p>Casa Blanca Restaurant. This place, because it’s delicious, and because we can. — with <a href=\"https://foursquare.com/user/89549\">Pj</a></p>\n",
+				"content_html": "<p>Casa Blanca Restaurant. This place, because it’s delicious, and because we can. — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
 				"content_text": "Casa Blanca Restaurant. This place, because it’s delicious, and because we can. — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
 				"date_published": "2022-09-17T10:40:20-05:00",
 				"url": "https://cambridgeport90.org/2022/09/17/casa-blanca-restaurant.html",
@@ -31435,7 +31443,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2022/07/29/tgi-fridays-impromptu.html",
 				
-				"content_html": "<p>TGI Fridays. Impromptu dinner on a Friday night because we can. — with <a href=\"https://foursquare.com/user/89549\">Pj</a></p>\n",
+				"content_html": "<p>TGI Fridays. Impromptu dinner on a Friday night because we can. — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
 				"content_text": "TGI Fridays. Impromptu dinner on a Friday night because we can. — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
 				"date_published": "2022-07-29T16:42:36-05:00",
 				"url": "https://cambridgeport90.org/2022/07/29/tgi-fridays-impromptu.html",
@@ -32727,7 +32735,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2022/07/01/apartments-at-should.html",
 				
-				"content_html": "<p>Apartments At 596. Should be a Nice start to July 4 week. — with <a href=\"https://foursquare.com/user/89549\">Pj</a></p>\n",
+				"content_html": "<p>Apartments At 596. Should be a Nice start to July 4 week. — with <!-- raw HTML omitted -->Pj<!-- raw HTML omitted --></p>\n",
 				"content_text": "Apartments At 596. Should be a Nice start to July 4 week. — with <a href=\"https://foursquare.com/user/89549\">Pj</a>\n",
 				"date_published": "2022-07-01T17:00:43-05:00",
 				"url": "https://cambridgeport90.org/2022/07/01/apartments-at-should.html",
@@ -42930,7 +42938,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/12/26/currently-reading-winters.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781549599798/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781549599798\">Winter&rsquo;s Fury</a> by A. E. Rayne 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781549599798\">Winter&rsquo;s Fury</a> by A. E. Rayne 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781549599798/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Winter's Fury](https://micro.blog/books/9781549599798) by A. E. Rayne 📚\n",
 				"date_published": "2021-12-26T22:04:40-05:00",
 				"url": "https://cambridgeport90.org/2021/12/26/currently-reading-winters.html"
@@ -43030,8 +43038,8 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/12/24/nice-cookies-and.html",
 				
-				"content_html": "<p>Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.</p>\n<p><img src=\"https://cambridgeport90.micro.blog/uploads/2021/15773fcad3.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cambridgeport90.micro.blog/uploads/2021/f76e5cd62b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/15773fcad3.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cambridgeport90.micro.blog/uploads/2021/f76e5cd62b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Nice cookies and cream cake from when I was out to dinner with my friends last night. Quite delicious. Never seen so many flavors in one place. Chocolate and fruit, primarily.\n\n<img src=\"uploads/2021/15773fcad3.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/f76e5cd62b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-24T08:03:03-05:00",
 				"url": "https://cambridgeport90.org/2021/12/24/nice-cookies-and.html"
 			},
@@ -43247,7 +43255,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/12/21/currently-reading-gemina.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781760875954/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781760875954\">Gemina</a> by Amie Kaufman 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781760875954\">Gemina</a> by Amie Kaufman 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781760875954/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Gemina](https://micro.blog/books/9781760875954) by Amie Kaufman 📚\n",
 				"date_published": "2021-12-21T12:58:54-05:00",
 				"url": "https://cambridgeport90.org/2021/12/21/currently-reading-gemina.html"
@@ -43299,7 +43307,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/12/20/currently-reading-illuminae.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780553499131/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780553499131\">Illuminae</a> by Amie Kaufman 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780553499131\">Illuminae</a> by Amie Kaufman 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780553499131/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Illuminae](https://micro.blog/books/9780553499131) by Amie Kaufman 📚\n",
 				"date_published": "2021-12-20T09:25:11-05:00",
 				"url": "https://cambridgeport90.org/2021/12/20/currently-reading-illuminae.html"
@@ -43412,7 +43420,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/12/17/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780812988956/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780812988956\">The Way of the Rose: The Radical Path of the Divine Feminine Hidden in the Rosary</a> by Clark Strand 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780812988956\">The Way of the Rose: The Radical Path of the Divine Feminine Hidden in the Rosary</a> by Clark Strand 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780812988956/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Way of the Rose: The Radical Path of the Divine Feminine Hidden in the Rosary](https://micro.blog/books/9780812988956) by Clark Strand 📚\n",
 				"date_published": "2021-12-17T11:41:39-05:00",
 				"url": "https://cambridgeport90.org/2021/12/17/currently-reading-the.html"
@@ -43963,7 +43971,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/12/06/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780999758748/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780999758748\">The Return of the Elves Collection: Books 1-4</a> by Bethany Adams 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780999758748\">The Return of the Elves Collection: Books 1-4</a> by Bethany Adams 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780999758748/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Return of the Elves Collection: Books 1-4](https://micro.blog/books/9780999758748) by Bethany Adams 📚\n",
 				"date_published": "2021-12-06T08:13:37-05:00",
 				"url": "https://cambridgeport90.org/2021/12/06/currently-reading-the.html"
@@ -44197,7 +44205,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/11/30/fantasy-shieldmaiden-under.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798646354113/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>fantasy: <a href=\"https://micro.blog/books/9798646354113\">Shield-Maiden: Under the Hunter&rsquo;s Moon</a> by Melanie Karsak 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>fantasy: <a href=\"https://micro.blog/books/9798646354113\">Shield-Maiden: Under the Hunter&rsquo;s Moon</a> by Melanie Karsak 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9798646354113/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nfantasy: [Shield-Maiden: Under the Hunter's Moon](https://micro.blog/books/9798646354113) by Melanie Karsak 📚\n",
 				"date_published": "2021-11-30T09:56:53-05:00",
 				"url": "https://cambridgeport90.org/2021/11/30/fantasy-shieldmaiden-under.html"
@@ -45446,8 +45454,8 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/10/31/decided-to-get.html",
 				
-				"content_html": "<p>Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.</p>\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/ff1366ecf9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"content_text": "Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/ff1366ecf9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Decided to get fully into the Halloween spirit. I wore a comfortable sweatsuit today, but decided to throw my red cloak over it.\n\n<img src=\"uploads/2021/ff1366ecf9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-31T16:51:20-05:00",
 				"url": "https://cambridgeport90.org/2021/10/31/decided-to-get.html"
 			},
@@ -46572,7 +46580,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/10/09/currently-reading-igen.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781501152016/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781501152016\">iGen</a> by <a href=\"https://micro.blog/books/9781501152016\">iGen</a>: Why Today&rsquo;s Super-Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy&ndash;and Completely Unprepared for Adulthood&ndash;and What That Means for the Rest of us 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781501152016\">iGen</a> by <a href=\"https://micro.blog/books/9781501152016\">iGen</a>: Why Today&rsquo;s Super-Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy&ndash;and Completely Unprepared for Adulthood&ndash;and What That Means for the Rest of us 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501152016/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [iGen](https://micro.blog/books/9781501152016) by [iGen](https://micro.blog/books/9781501152016): Why Today's Super-Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy--and Completely Unprepared for Adulthood--and What That Means for the Rest of us 📚\n",
 				"date_published": "2021-10-09T10:03:50-05:00",
 				"url": "https://cambridgeport90.org/2021/10/09/currently-reading-igen.html"
@@ -46580,7 +46588,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/10/09/finished-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781089575139/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781089575139\">The Heathen Handbook</a> by Woden&rsquo;s Kindred 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781089575139\">The Heathen Handbook</a> by Woden&rsquo;s Kindred 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781089575139/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Heathen Handbook](https://micro.blog/books/9781089575139) by Woden's Kindred 📚\n",
 				"date_published": "2021-10-09T09:51:53-05:00",
 				"url": "https://cambridgeport90.org/2021/10/09/finished-reading-the.html",
@@ -47066,7 +47074,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/10/01/faeborn-networks-thanks.html",
 				
-				"content_html": "<p>Faeborn Networks. Thanks <a href=\"https://foursquare.com/user/89549\">Pj</a>  for the good time.</p>\n",
+				"content_html": "<p>Faeborn Networks. Thanks <!-- raw HTML omitted -->Pj<!-- raw HTML omitted -->  for the good time.</p>\n",
 				"content_text": "Faeborn Networks. Thanks <a href=\"https://foursquare.com/user/89549\">Pj</a>  for the good time.\n",
 				"date_published": "2021-10-01T20:09:04-05:00",
 				"url": "https://cambridgeport90.org/2021/10/01/faeborn-networks-thanks.html",
@@ -47531,7 +47539,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/09/23/currently-reading-our.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781419635984/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781419635984\">Our Troth: History and Lore</a> by Ben Waggoner 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781419635984\">Our Troth: History and Lore</a> by Ben Waggoner 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781419635984/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Our Troth: History and Lore](https://micro.blog/books/9781419635984) by Ben Waggoner 📚\n",
 				"date_published": "2021-09-23T07:28:47-05:00",
 				"url": "https://cambridgeport90.org/2021/09/23/currently-reading-our.html",
@@ -48097,7 +48105,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/09/06/finished-reading-viral.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593328293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593328293\">Viral</a> by Robin Cook 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593328293\">Viral</a> by Robin Cook 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593328293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Viral](https://micro.blog/books/9780593328293) by Robin Cook 📚\n",
 				"date_published": "2021-09-06T19:19:42-05:00",
 				"url": "https://cambridgeport90.org/2021/09/06/finished-reading-viral.html",
@@ -48115,7 +48123,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/09/03/currently-reading-viral.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593328293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780593328293\">Viral</a> by Robin Cook 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780593328293\">Viral</a> by Robin Cook 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593328293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Viral](https://micro.blog/books/9780593328293) by Robin Cook 📚\n",
 				"date_published": "2021-09-03T14:07:22-05:00",
 				"url": "https://cambridgeport90.org/2021/09/03/currently-reading-viral.html",
@@ -48164,7 +48172,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/09/02/when-september-begins.html",
 				"title": "When September Begins",
-				"content_html": "<p>This is just me doing some rambling from the end of August to the beginning of September.</p>\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1399712/461051.mp3\" preload=\"metadata\" />\n",
+				"content_html": "<p>This is just me doing some rambling from the end of August to the beginning of September.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This is just me doing some rambling from the end of August to the beginning of September.\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1399712/461051.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2021-09-02T05:34:39-05:00",
 				"url": "https://cambridgeport90.org/2021/09/02/when-september-begins.html"
@@ -48286,7 +48294,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/08/27/randomness-in-the.html",
 				"title": "Randomness In The Middle Of The Week",
-				"content_html": "<p>This was meant to be much longer, but it’s more like just a random audio segment that I did.</p>\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1396828/458299.mp3\" preload=\"metadata\" />\n",
+				"content_html": "<p>This was meant to be much longer, but it’s more like just a random audio segment that I did.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This was meant to be much longer, but it’s more like just a random audio segment that I did.\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1396828/458299.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2021-08-27T06:34:10-05:00",
 				"url": "https://cambridgeport90.org/2021/08/27/randomness-in-the.html"
@@ -48407,8 +48415,8 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/05/22/some-pictures-from.html",
 				
-				"content_html": "<p>Some pictures from when I was hanging out with my friends last night.</p>\n<p><img src=\"https://cambridgeport90.micro.blog/uploads/2021/d4847aab0a.png\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cambridgeport90.micro.blog/uploads/2021/73f8738db2.png\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Some pictures from when I was hanging out with my friends last night.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/d4847aab0a.png\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cambridgeport90.micro.blog/uploads/2021/73f8738db2.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Some pictures from when I was hanging out with my friends last night.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Some pictures from when I was hanging out with my friends last night.\n\n<img src=\"uploads/2021/d4847aab0a.png\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/73f8738db2.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-22T13:44:21-05:00",
 				"url": "https://cambridgeport90.org/2021/05/22/some-pictures-from.html"
 			},
@@ -48439,7 +48447,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/05/05/currently-reading-italian.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781567182590/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781567182590\">Italian Witchcraft: the old religion of southern Europe </a> by Reven Grimassi 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781567182590\">Italian Witchcraft: the old religion of southern Europe </a> by Reven Grimassi 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781567182590/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Italian Witchcraft: the old religion of southern Europe ](https://micro.blog/books/9781567182590) by Reven Grimassi 📚\n",
 				"date_published": "2021-05-05T14:34:39-05:00",
 				"url": "https://cambridgeport90.org/2021/05/05/currently-reading-italian.html",
@@ -48448,8 +48456,8 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/05/02/there-goes-the.html",
 				"title": "there goes the fence.",
-				"content_html": "<p>This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.</p>\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/e820c11bc1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"content_text": "This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2021/e820c11bc1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is what happened to our fence on Friday during a rather heavy wind storm. It was just wind, but it was enough to drop one of the branches of our neighbors huge tree, and it landed right in the yard. I’ll never forget what that sounded like as we were sitting down together at the dinner table.\n\n<img src=\"uploads/2021/e820c11bc1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-02T11:36:42-05:00",
 				"url": "https://cambridgeport90.org/2021/05/02/there-goes-the.html"
 			},
@@ -48496,7 +48504,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2021/01/31/the-end-of.html",
 				"title": "The End Of January.",
-				"content_html": "<p>This is just a random episode mostly talking about nothing marking the end of the month. Will try to keep these up more consistently.</p>\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1258607/356398.mp3\" preload=\"metadata\" />\n",
+				"content_html": "<p>This is just a random episode mostly talking about nothing marking the end of the month. Will try to keep these up more consistently.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This is just a random episode mostly talking about nothing marking the end of the month. Will try to keep these up more consistently.\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1258607/356398.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2021-01-31T18:51:31-05:00",
 				"url": "https://cambridgeport90.org/2021/01/31/the-end-of.html"
@@ -48536,7 +48544,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/11/05/trying-to-use.html",
 				
-				"content_html": "<p>Trying to use micro.blog site verification, and though I added the <head> tag, somehow my site isn&rsquo;t marked as verified. I don&rsquo;t remember this taking too long the last time, either. Might it be beecause my domain name changed? <a href=\"https://micro.blog/manton\">@manton</a>, and anyone else on the team could shed light on this &hellip; would be great. Thanks!</p>\n",
+				"content_html": "<p>Trying to use micro.blog site verification, and though I added the <!-- raw HTML omitted --> tag, somehow my site isn&rsquo;t marked as verified. I don&rsquo;t remember this taking too long the last time, either. Might it be beecause my domain name changed? <a href=\"https://micro.blog/manton\">@manton</a>, and anyone else on the team could shed light on this &hellip; would be great. Thanks!</p>\n",
 				"content_text": "Trying to use micro.blog site verification, and though I added the <head> tag, somehow my site isn't marked as verified. I don't remember this taking too long the last time, either. Might it be beecause my domain name changed? [@manton](https://micro.blog/manton), and anyone else on the team could shed light on this ... would be great. Thanks!\n",
 				"date_published": "2020-11-05T08:49:22-05:00",
 				"url": "https://cambridgeport90.org/2020/11/05/trying-to-use.html"
@@ -48568,7 +48576,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/10/29/currently-reading-windows.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780135492277/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780135492277\">Windows server 2019 Inside Out</a> by Thomas Orin 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780135492277\">Windows server 2019 Inside Out</a> by Thomas Orin 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780135492277/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Windows server 2019 Inside Out](https://micro.blog/books/9780135492277) by Thomas Orin 📚\n",
 				"date_published": "2020-10-29T10:15:31-05:00",
 				"url": "https://cambridgeport90.org/2020/10/29/currently-reading-windows.html",
@@ -48633,7 +48641,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/10/21/currently-reading-seeing.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781493411641/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781493411641\">Seeing the supermatural: how to sense, discern, and battle in the spiritual realm</a> by Jennifer Eivaz 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781493411641\">Seeing the supermatural: how to sense, discern, and battle in the spiritual realm</a> by Jennifer Eivaz 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781493411641/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Seeing the supermatural: how to sense, discern, and battle in the spiritual realm](https://micro.blog/books/9781493411641) by Jennifer Eivaz 📚\n",
 				"date_published": "2020-10-21T07:02:17-05:00",
 				"url": "https://cambridgeport90.org/2020/10/21/currently-reading-seeing.html",
@@ -48770,7 +48778,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/10/13/want-to-read.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780307830968/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Want to read: <a href=\"https://micro.blog/books/9780307830968\">Franz Liszt: Volume 1</a> by alan Walker 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Want to read: <a href=\"https://micro.blog/books/9780307830968\">Franz Liszt: Volume 1</a> by alan Walker 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780307830968/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWant to read: [Franz Liszt: Volume 1](https://micro.blog/books/9780307830968) by alan Walker 📚\n",
 				"date_published": "2020-10-13T12:54:22-05:00",
 				"url": "https://cambridgeport90.org/2020/10/13/want-to-read.html",
@@ -48779,7 +48787,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/10/12/currently-reading-witchery.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781788172257/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781788172257\">Witchery</a> by Juliet Diaz 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781788172257\">Witchery</a> by Juliet Diaz 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781788172257/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Witchery](https://micro.blog/books/9781788172257) by Juliet Diaz 📚\n",
 				"date_published": "2020-10-12T14:44:27-05:00",
 				"url": "https://cambridgeport90.org/2020/10/12/currently-reading-witchery.html",
@@ -48812,7 +48820,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/08/29/randomness-over-two.html",
 				"title": "Randomness Over Two Months",
-				"content_html": "<p>Not really much to say about this one, except that I started doing it, and then I completely forgot about it.</p>\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1168557/305326.mp3\" preload=\"metadata\" />\n",
+				"content_html": "<p>Not really much to say about this one, except that I started doing it, and then I completely forgot about it.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Not really much to say about this one, except that I started doing it, and then I completely forgot about it.\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1168557/305326.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2020-08-29T11:32:05-05:00",
 				"url": "https://cambridgeport90.org/2020/08/29/randomness-over-two.html"
@@ -48828,7 +48836,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/08/24/want-to-read.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781504383448/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Want to read: <a href=\"https://micro.blog/books/9781504383448\">Integrative Medicine: The Return Of The Soul To Healthcare</a> by Bonnie McLean, O.M.D 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Want to read: <a href=\"https://micro.blog/books/9781504383448\">Integrative Medicine: The Return Of The Soul To Healthcare</a> by Bonnie McLean, O.M.D 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781504383448/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWant to read: [Integrative Medicine: The Return Of The Soul To Healthcare](https://micro.blog/books/9781504383448) by Bonnie McLean, O.M.D 📚\n",
 				"date_published": "2020-08-24T13:19:35-05:00",
 				"url": "https://cambridgeport90.org/2020/08/24/want-to-read.html",
@@ -48885,7 +48893,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/08/12/currently-reading-mastering.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781789533989/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781789533989\">Mastering Windows PowerShell Scripting: Automate and manage your environment using PowerShell Core 6.0, 3rd Edition</a> by Chris Dent 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781789533989\">Mastering Windows PowerShell Scripting: Automate and manage your environment using PowerShell Core 6.0, 3rd Edition</a> by Chris Dent 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781789533989/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Mastering Windows PowerShell Scripting: Automate and manage your environment using PowerShell Core 6.0, 3rd Edition](https://micro.blog/books/9781789533989) by Chris Dent 📚\n",
 				"date_published": "2020-08-12T09:04:17-05:00",
 				"url": "https://cambridgeport90.org/2020/08/12/currently-reading-mastering.html",
@@ -49064,7 +49072,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/06/25/random-day-at.html",
 				"title": "Random Day At Work",
-				"content_html": "<p>This is just a little clip I put together. It starts when I leave work, and ends after dinner. A little bit of crazy stuff in between.</p>\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1128661/277775.mp3\" preload=\"metadata\" />\n",
+				"content_html": "<p>This is just a little clip I put together. It starts when I leave work, and ends after dinner. A little bit of crazy stuff in between.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This is just a little clip I put together. It starts when I leave work, and ends after dinner. A little bit of crazy stuff in between.\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1128661/277775.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2020-06-25T19:12:26-05:00",
 				"url": "https://cambridgeport90.org/2020/06/25/random-day-at.html"
@@ -49072,15 +49080,15 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/06/24/took-this-one.html",
 				
-				"content_html": "<p>Took this one when I was in New Hampshire last. Sun shining on the pretty lake.</p>\n<img src=\"https://cambridgeport90.micro.blog/uploads/2020/1617ef67ec.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"content_text": "Took this one when I was in New Hampshire last. Sun shining on the pretty lake.\n\n<img src=\"https://cambridgeport90.micro.blog/uploads/2020/1617ef67ec.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Took this one when I was in New Hampshire last. Sun shining on the pretty lake.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Took this one when I was in New Hampshire last. Sun shining on the pretty lake.\n\n<img src=\"uploads/2020/1617ef67ec.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-06-24T19:18:22-05:00",
 				"url": "https://cambridgeport90.org/2020/06/24/took-this-one.html"
 			},
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/06/24/this-is-a.html",
 				"title": "This Is A Test",
-				"content_html": "<p>Mainly trying this app out, but we’ll see what happens. Maybe I’ll be able to make some useful things out of it this summer. This was just me testing to make sure the recording was working properly.</p>\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1128166/277547.mp3\" preload=\"metadata\" />\n",
+				"content_html": "<p>Mainly trying this app out, but we’ll see what happens. Maybe I’ll be able to make some useful things out of it this summer. This was just me testing to make sure the recording was working properly.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Mainly trying this app out, but we’ll see what happens. Maybe I’ll be able to make some useful things out of it this summer. This was just me testing to make sure the recording was working properly.\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/9186/1128166/277547.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2020-06-24T18:32:18-05:00",
 				"url": "https://cambridgeport90.org/2020/06/24/this-is-a.html"
@@ -49160,7 +49168,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2020/06/21/currently-reading-c.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781484233184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781484233184\">C# Programming For Absolute Beginners</a> by Vystavěl, Radek 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781484233184\">C# Programming For Absolute Beginners</a> by Vystavěl, Radek 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781484233184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [C# Programming For Absolute Beginners](https://micro.blog/books/9781484233184) by Vystavěl, Radek 📚\n",
 				"date_published": "2020-06-21T15:14:33-05:00",
 				"url": "https://cambridgeport90.org/2020/06/21/currently-reading-c.html",
@@ -49530,7 +49538,7 @@
 			{
 				"id": "http://cambridgeport90.micro.blog/2019/05/17/i-like-how.html",
 				
-				"content_html": "<p>I like how that works, actually. <a href=\"https://micro.blog/manton/3612490\">micro.blog</a></p>\n",
+				"content_html": "<p>I like how that works, actually. <!-- raw HTML omitted -->micro.blog<!-- raw HTML omitted --></p>\n",
 				"content_text": "I like how that works, actually. <a href=\"https://micro.blog/manton/3612490\">micro.blog</a>\n",
 				"date_published": "2019-05-17T14:17:00-05:00",
 				"url": "https://cambridgeport90.org/2019/05/17/i-like-how.html"
